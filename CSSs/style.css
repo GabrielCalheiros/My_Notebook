@@ -1,0 +1,273 @@
+/* Geral */
+body {
+    background-color: black;
+    /* Cor de Fundo */
+    max-width: 800px;
+    /* Largura do Corpo */
+    margin: auto;
+    font-family: 'Times New Roman';
+    overflow-x: hidden;
+  }
+  
+  a {
+    text-decoration: none;
+    color: white;
+    outline: none;
+  }
+  
+  /* Texto */
+  
+  h1 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    transition: 0.5s;
+  }
+  
+  h2 {
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    color: white;
+    text-align: left;
+  }
+
+  h4 {
+    color: white;
+    text-align: left;
+    font-size: medium;
+    font-weight: normal;
+  }
+  
+  p {
+    color: white;
+    text-align: justify;
+    font-size: smaller;
+    text-decoration: solid;
+    text-align-last: left;
+    text-indent: 10%;
+  }
+
+  ul {
+    color: white;
+    text-align: left;
+    font-size: smaller;
+    text-decoration: solid;
+    text-align-last: left;
+    list-style-type: circle;
+  }
+  
+  /* Ornamentos */
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  .imgFooter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+  }
+  
+  .imgBack {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+    transition: 0.5s;
+  }
+  
+  .imgBack:hover {
+    transform: scale(1.2);
+  }
+  
+  /* Menu */
+  
+  .seta_some {
+    display: none;
+    width: 100%;
+    transition: 0.5s;
+  }
+  
+  .seta_virada {
+    transform: rotate(180deg);
+    width: 100%;
+  }
+  
+  .cardBiblioteca {
+    display: grid;
+    grid-template-columns: 30% 40% 30%;
+    grid-template-rows: 100%;
+    gap: 5px 8px;
+    /*grid-auto-flow: row;*/
+    grid-template-areas:
+      "seta-esquerda texto seta-direita";
+    width: 100%;
+    height: 10%;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+  }
+  
+  .texto {
+    grid-area: texto;
+    text-align: center;
+    align-self: center;
+    text-decoration: none;
+  }
+  
+  .seta-direita {
+    grid-area: seta-direita;
+    align-self: center;
+    text-align: -webkit-right;
+  }
+  
+  .seta-esquerda {
+    grid-area: seta-esquerda;
+    align-self: center;
+    text-align: -webkit-left;
+  }
+  
+  .cardBiblioteca:hover .seta_some {
+    display: block;
+  }
+  
+  .cardBiblioteca:hover h1 {
+    transform: scale(1.1);
+    color: gold;
+  }
+  
+  .Titulo {
+    grid-area: Titulo;
+  }
+  
+  .Ornamento_cabeçalho {
+    grid-area: Ornamento_cabeçalho;
+  }
+  
+  /* Cabeçalho */
+  
+  .cabeçalho_card {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 45% 55%;
+    gap: 0px 8px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "Titulo"
+      "Ornamento_cabeçalho";
+    width: 100%;
+    height: 25%;
+  }
+  
+  .Titulo {
+    grid-area: Titulo;
+  }
+  
+  .Ornamento_cabeçalho {
+    grid-area: Ornamento_cabeçalho;
+  }
+  
+  /* Feeds*/
+  
+  .feed_card {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 5% 90% 5%;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      ". ."
+      "feed_image feed_text"
+      ". .";
+    width: 100%;
+    height: 30%;
+    transition: 0.5s;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .feed_card:hover {
+    transform: scale(1.08);
+  }
+  
+  .feed_image {
+    grid-area: feed_image;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  
+  .feed_text {
+    grid-area: feed_text;
+    align-self: center;
+  }
+  
+  .feed_img {
+    max-width: 7em;
+    max-height: 7em;
+  }
+  
+  .feed_card_virada {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    grid-template-rows: 5% 90% 5%;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      ". ."
+      "feed_text_virada feed_image_virado"
+      ". .";
+    width: 100%;
+    height: 30%;
+    transition: 0.5s;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .feed_card_virada:hover {
+    transform: scale(1.08);
+  }
+  
+  .feed_text_virada {
+    grid-area: feed_text_virada;
+    align-self: center;
+  }
+  
+  .feed_image_virado {
+    grid-area: feed_image_virado;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+  
+  }
+
+  .what_we_do_table {  display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    gap: 0% 0%;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "a b c d";
+  }
+  
+  .a { grid-area: a; }
+  
+  .b { grid-area: b; }
+  
+  .c { grid-area: c; }
+  
+  .d { grid-area: d; }
+  

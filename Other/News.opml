@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>ter. dez. 20 09:43:04 2022</dateModified>
+    </head>
+    <body>
+            <outline text="News - Sports">
+                <outline text="Flamengo – Notícias e jogo do Flamengo – Coluna do Fla" type="rss" htmlUrl="https://colunadofla.com" xmlUrl="https://colunadofla.com/feed/"/>
+                <outline text="MMA Fighting - All Posts" type="rss" htmlUrl="https://www.mmafighting.com/" xmlUrl="https://www.mmafighting.com/rss/current.xml"/>
+                <outline text="MMA News" type="rss" htmlUrl="https://www.mmanews.com/" xmlUrl="https://www.mmanews.com/feed/"/>
+                <outline text="Battle of the Nations" type="rss" htmlUrl="https://botn.info" xmlUrl="https://botn.info/feed/"/>
+                <outline text="Esporte News Mundo" type="rss" htmlUrl="https://esportenewsmundo.com.br" xmlUrl="https://esportenewsmundo.com.br/feed/"/>
+                <outline text="Inside Archery" type="rss" htmlUrl="https://insidearchery.com" xmlUrl="https://insidearchery.com/feed/"/>
+            </outline>
+            <outline text="News - Music">
+                <outline text="Radio Albion" type="rss" htmlUrl="https://www.radioalbion.com/" xmlUrl="https://www.radioalbion.com/feeds/posts/default?alt=rss"/>
+                <outline text="DJ RaMeMes (O DESTRUIDOR DO FUNK)" type="rss" htmlUrl="http://www.padrim.com.br/ramemes" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:116231345/sounds.rss"/>
+                <outline text="major thom" type="rss" htmlUrl="https://soundcloud.com/nerorosso" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:72641290/sounds.rss"/>
+            </outline>
+            <outline text="News - Games">
+                <outline text="Indie Games Plus" type="rss" htmlUrl="https://indiegamesplus.com/" xmlUrl="https://indiegamesplus.com/feed"/>
+                <outline text="Steam RSS News Feed" type="rss" htmlUrl="http://www.steampowered.com/" xmlUrl="https://store.steampowered.com/feeds/news.xml"/>
+            </outline>
+            <outline text="News - Culture and Politics">
+                <outline text="Kirksville Today" type="rss" htmlUrl="http://www.kirksvilletoday.com" xmlUrl="http://www.kirksvilletoday.com/feed/"/>
+                <outline text="DISSENT WATCH" type="rss" htmlUrl="https://dissentwatch.com" xmlUrl="https://dissentwatch.com/feed/"/>
+                <outline text="American Free Press" type="rss" htmlUrl="https://americanfreepress.net" xmlUrl="https://americanfreepress.net/feed/"/>
+                <outline text="American Renaissance" type="rss" htmlUrl="https://www.amren.com/" xmlUrl="https://www.amren.com/feed/"/>
+                <outline text="Red Ice News" type="rss" htmlUrl="https://redice.tv/rss/news" xmlUrl="https://redice.tv/rss/news"/>
+                <outline text="National File" type="rss" htmlUrl="https://nationalfile.com/" xmlUrl="https://nationalfile.com/feed/"/>
+                <outline text="Trad News" type="rss" htmlUrl="https://trad-news.blogspot.com/" xmlUrl="https://trad-news.blogspot.com/feeds/posts/default?alt=rss"/>
+                <outline text="Occidental Dissent" type="rss" htmlUrl="https://occidentaldissent.com" xmlUrl="https://occidentaldissent.com/feed/"/>
+                <outline text="National Justice" type="rss" htmlUrl="https://national-justice.com/" xmlUrl="https://national-justice.com/feeds/feedly"/>
+            </outline>
+            <outline text="News - Geopolitics and War">
+                <outline text="South Front" type="rss" htmlUrl="https://southfront.org" xmlUrl="https://southfront.org/rss"/>
+                <outline text="RT - Daily news" type="rss" htmlUrl="https://www.rt.com" xmlUrl="https://www.rt.com/rss-feed/"/>
+                <outline text="Military Times" type="rss" htmlUrl="https://www.militarytimes.com" xmlUrl="https://www.militarytimes.com/arc/outboundfeeds/rss/category/flashpoints/?outputType=xml"/>
+                <outline text="Militant Wire" type="rss" htmlUrl="https://www.militantwire.com" xmlUrl="https://www.militantwire.com/feed"/>
+            </outline>
+            <outline text="News - South America">
+                <outline text="Nova Resistência" type="rss" htmlUrl="https://novaresistencia.org" xmlUrl="https://novaresistencia.org/feed/"/>
+            </outline>
+            <outline text="News - Finance">
+                <outline text="ZeroHedge News" type="rss" htmlUrl="https://cms.zerohedge.com/" xmlUrl="https://feeds.feedburner.com/zerohedge/feed"/>
+                <outline text="Monero" type="rss" htmlUrl="https://www.getmonero.org/" xmlUrl="https://www.getmonero.org/feed.xml"/>
+                <outline text="Cointelegraph.com News" type="rss" htmlUrl="https://cointelegraph.com.br" xmlUrl="https://cointelegraph.com.br/rss"/>
+                <outline text="News – Blokt – Privacy, Tech, Bitcoin, Blockchain &amp; Cryptocurrency" type="rss" htmlUrl="https://blokt.com" xmlUrl="https://blokt.com/news/feed"/>
+                <outline text="GIMP" type="rss" htmlUrl="https://www.gimp.org/" xmlUrl="https://www.gimp.org/feeds/rss.xml"/>
+            </outline>
+            <outline text="News - Realeases">
+                <outline text="BOOMERANG - News" type="rss" htmlUrl="https://b00merang.weebly.com/news" xmlUrl="https://b00merang.weebly.com/1/feed"/>
+                <outline text="Kodi News" type="rss" htmlUrl="https://kodi.tv" xmlUrl="http://feeds.kodi.tv/xbmc"/>
+                <outline text="Arch Linux: Recent news updates" type="rss" htmlUrl="https://archlinux.org/news/" xmlUrl="https://archlinux.org/feeds/news/"/>
+                <outline text="Announcements - Manjaro Linux Forum" type="rss" htmlUrl="https://forum.manjaro.org/c/announcements/11" xmlUrl="https://forum.manjaro.org/c/announcements/11.rss"/>
+                <outline text="Tails - Notícias" type="rss" htmlUrl="https://tails.boum.org/news/index.pt.html" xmlUrl="https://tails.boum.org/news/index.pt.rss"/>
+                <outline text="Release notes from monero-gui" type="rss" htmlUrl="https://github.com/monero-project/monero-gui/releases" xmlUrl="https://github.com/monero-project/monero-gui/releases.atom"/>
+                <outline text="Release notes from batocera.linux" type="rss" htmlUrl="https://github.com/batocera-linux/batocera.linux/releases" xmlUrl="https://github.com/batocera-linux/batocera.linux/releases.atom"/>
+                <outline text="EmulationStation" type="rss" htmlUrl="https://emulationstation.org/news" xmlUrl="https://emulationstation.org/news/?feed=rss2"/>
+            </outline>
+            <outline text="News - Technology and Opsec">
+                <outline text="The Software Freedom Conservancy Blog." type="rss" htmlUrl="https://sfconservancy.org/blog/" xmlUrl="https://sfconservancy.org/feeds/blog/"/>
+                <outline text="Planet GNU" type="rss" htmlUrl="https://planet.gnu.org/" xmlUrl="https://planet.gnu.org/rss20.xml"/>
+                <outline text="Software Freedom Conservancy News" type="rss" htmlUrl="https://sfconservancy.org/news/" xmlUrl="https://sfconservancy.org/feeds/news/"/>
+                <outline text="FSF News" type="rss" htmlUrl="http://www.fsf.org/news/aggregator" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
+                <outline text="suckless.org news" type="rss" htmlUrl="https://www.suckless.org" xmlUrl="https://suckless.org/atom.xml"/>
+                <outline text="HTML Online" type="rss" htmlUrl="https://html-online.com/articles/" xmlUrl="https://html-online.com/articles/feed/"/>
+                <outline text="Linux Journal - The Original Magazine of the Linux Community" type="rss" htmlUrl="https://www.linuxjournal.com/node/feed" xmlUrl="https://www.linuxjournal.com/node/feed"/>
+                <outline text="MediaGoblin" type="rss" htmlUrl="https://mediagoblin.org/" xmlUrl="https://mediagoblin.org/news/index.xml"/>
+                <outline text="Schneier on Security" type="rss" htmlUrl="https://www.schneier.com" xmlUrl="https://www.schneier.com/feed/"/>
+                <outline text="The Hacker News" type="rss" htmlUrl="https://thehackernews.com" xmlUrl="https://feeds.feedburner.com/TheHackersNews"/>
+                <outline text="It's FOSS" type="rss" htmlUrl="https://itsfoss.com" xmlUrl="https://itsfoss.com/feed/"/>
+                <outline text="Viva o Linux - Forum" type="rss" htmlUrl="http://www.vivaolinux.com.br/" xmlUrl="https://feeds.feedburner.com/forum-vivaolinux?format=xml"/>
+            </outline>
+            <outline text="The Daily Beast Latest Articles" type="rss" htmlUrl="https://www.thedailybeast.com/?via=rss&amp;source=articles" xmlUrl="https://feeds.thedailybeast.com/rss/articles"/>
+        </body>
+</opml>

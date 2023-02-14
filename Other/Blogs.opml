@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>QuiteRSS</title>
+        <dateModified>ter. dez. 20 09:43:04 2022</dateModified>
+    </head>
+    <body>
+            <outline text="Blogs - Politics">
+                <outline text="The Alternative Hypothesis" type="rss" htmlUrl="https://thealternativehypothesis.org" xmlUrl="http://thealternativehypothesis.org/index.php/feed/"/>
+                <outline text="Counter-Currents" type="rss" htmlUrl="https://counter-currents.com" xmlUrl="https://counter-currents.com/feed/"/>
+                <outline text="William M. Briggs" type="rss" htmlUrl="https://www.wmbriggs.com" xmlUrl="https://www.wmbriggs.com/feed/"/>
+                <outline text="The Z Blog" type="rss" htmlUrl="https://thezman.com/wordpress" xmlUrl="https://thezman.com/wordpress/?feed=rss2"/>
+                <outline text="Darwinian Reactionary" type="rss" htmlUrl="https://darwinianreactionary.wordpress.com" xmlUrl="https://darwinianreactionary.wordpress.com/feed/"/>
+                <outline text="Dividuals" type="rss" htmlUrl="https://dividuals.wordpress.com" xmlUrl="https://dividuals.wordpress.com/feed/"/>
+                <outline text="Anomaly UK" type="rss" htmlUrl="https://blog.anomalyuk.party" xmlUrl="https://blog.anomalyuk.party/feed/"/>
+                <outline text="Carlsbad 1819" type="rss" htmlUrl="https://carlsbad1819.wordpress.com" xmlUrl="https://carlsbad1819.wordpress.com/feed/"/>
+                <outline text="ACCALE Nacionalismo" type="rss" htmlUrl="https://accale.org" xmlUrl="https://accale.org/feed/"/>
+                <outline text="Fisted by Foucault" type="rss" htmlUrl="https://niccolo.substack.com" xmlUrl="https://niccolo.substack.com/feed"/>
+                <outline text="The Occidental Observer" type="rss" htmlUrl="https://www.theoccidentalobserver.net" xmlUrl="https://www.theoccidentalobserver.net/feed/"/>
+                <outline text="History Reviewed" type="rss" htmlUrl="http://historyreviewed.best" xmlUrl="http://historyreviewed.best/index.php/feed/"/>
+                <outline text="AFFIRMATIVE RIGHT" type="rss" htmlUrl="http://affirmativeright.blogspot.com/" xmlUrl="https://feeds.feedburner.com/AffirmativeRight"/>
+                <outline text="Vanguard News Network" type="rss" htmlUrl="http://www.vanguardnewsnetwork.com" xmlUrl="http://www.vanguardnewsnetwork.com/feed/"/>
+                <outline text="New Frontier" type="rss" htmlUrl="https://newfrontierusa.org" xmlUrl="https://newfrontierusa.org/feed/"/>
+                <outline text="Radix Journal" type="rss" htmlUrl="https://radixjournal.com" xmlUrl="https://radixjournal.com/feed/"/>
+                <outline text="The Creativity Alliance" type="rss" htmlUrl="https://creativityalliance.com" xmlUrl="https://creativityalliance.com/feed/"/>
+                <outline text="From the Trenches World Report" type="rss" htmlUrl="http://fromthetrenchesworldreport.com/" xmlUrl="https://fromthetrenchesworldreport.com/feed"/>
+            </outline>
+            <outline text="Blogs - Health">
+                <outline text="Herculean Strength" type="rss" htmlUrl="https://herculeanstrength.com" xmlUrl="https://herculeanstrength.com/feed/"/>
+            </outline>
+            <outline text="Blogs - Technology">
+                <outline text="Can I Use updates" type="rss" htmlUrl="https://caniuse.com/feed" xmlUrl="http://feeds.feedburner.com/WhenCanIUse"/>
+                <outline text="Luke Smith" type="rss" htmlUrl="https://lukesmith.xyz/" xmlUrl="https://lukesmith.xyz/rss.xml"/>
+                <outline text="Danluu" type="rss" htmlUrl="https://danluu.com/atom/index.xml" xmlUrl="https://danluu.com/atom.xml"/>
+                <outline text="emhmki.org RSS feed" type="rss" htmlUrl="http://emhmki.org/" xmlUrl="https://web.emhmki.org/feed/index.html"/>
+                <outline text="CSS-Tricks" type="rss" htmlUrl="https://css-tricks.com" xmlUrl="https://css-tricks.com/feed/"/>
+                <outline text="CSS Working Group Blog" type="rss" htmlUrl="https://www.w3.org/blog/CSS" xmlUrl="http://www.w3.org/blog/CSS/feed/atom/"/>
+                <outline text="Planet WebKit" type="rss" htmlUrl="https://planet.webkit.org/" xmlUrl="http://planet.webkit.org/atom.xml"/>
+                <outline text="Opensource.com" type="rss" htmlUrl="https://opensource.com/" xmlUrl="https://opensource.com/feed"/>
+                <outline text="Privacy Guides: Encryption, Tracking, Security and Privacy Tools" type="rss" htmlUrl="https://www.privacytools.io/guides/" xmlUrl="https://www.privacytools.io/guides/rss.xml"/>
+                <outline text="Knowledge Base" type="rss" htmlUrl="https://bgstack15.ddns.net/blog/" xmlUrl="https://bgstack15.ddns.net/blog/rss.xml"/>
+            </outline>
+            <outline text="Blogs - Archeofuturism +or-">
+                <outline text="Aurora de Ferro" type="rss" htmlUrl="https://auroradeferro.org" xmlUrl="https://auroradeferro.org/f.rss"/>
+                <outline text="Aureus Press" type="rss" htmlUrl="https://www.aureus-press.com" xmlUrl="https://www.aureus-press.com/feed/"/>
+                <outline text="Palladium" type="rss" htmlUrl="https://www.palladiummag.com/" xmlUrl="https://palladiummag.com/feed/"/>
+            </outline>
+            <outline text="Blogs - Religion and Spirituality">
+                <outline text="First Things RSS Feed - First Thoughts" type="rss" htmlUrl="https://www.firstthings.com/blogs/firstthoughts" xmlUrl="https://www.firstthings.com/rss/blogs/firstthoughts"/>
+                <outline text="First Things RSS Feed - Web Exclusives | Daily Writings From Our Top Writers | First Things" type="rss" htmlUrl="https://www.firstthings.com/web-exclusives" xmlUrl="https://www.firstthings.com/rss/web-exclusives"/>
+                <outline text="Coptic Magical Papyri" type="rss" htmlUrl="https://www.coptic-magic.phil.uni-wuerzburg.de" xmlUrl="https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/feed/"/>
+                <outline text="Leithart" type="rss" htmlUrl="https://www.patheos.com/blogs/leithart" xmlUrl="https://www.patheos.com/blogs/leithart/feed/?type=blogs&amp;permalink=leithart"/>
+                <outline text="The Social Pathologist" type="rss" htmlUrl="https://socialpathology.blogspot.com/" xmlUrl="https://socialpathology.blogspot.com/feeds/posts/default?alt=rss"/>
+                <outline text="AntiDem" type="rss" htmlUrl="https://antidem.wordpress.com" xmlUrl="https://antidem.wordpress.com/feed/"/>
+                <outline text="Christians for Truth" type="rss" htmlUrl="https://christiansfortruth.com/" xmlUrl="https://christiansfortruth.com/feed/"/>
+            </outline>
+            <outline text="Blogs - Culture">
+                <outline text="Excuse The Blood" type="rss" htmlUrl="https://excusetheblood.wordpress.com" xmlUrl="https://excusetheblood.wordpress.com/feed/"/>
+                <outline text="Excuse The Blood's Newsletter" type="rss" htmlUrl="https://excusetheblood.substack.com" xmlUrl="https://excusetheblood.substack.com/feed"/>
+                <outline text="Henry Dampier" type="rss" htmlUrl="http://www.henrydampier.com/" xmlUrl="http://www.henrydampier.com/feed/"/>
+                <outline text="Nexus Newsfeed" type="rss" htmlUrl="https://nexusnewsfeed.com/" xmlUrl="https://nexusnewsfeed.com/?view=rss"/>
+                <outline text="Isegoria" type="rss" htmlUrl="https://www.isegoria.net" xmlUrl="https://www.isegoria.net/feed/"/>
+            </outline>
+            <outline text="Blogs - Architecture and Urbanism">
+                <outline text="Smart Cities Dive - Latest News" type="rss" htmlUrl="https://www.smartcitiesdive.com/news/" xmlUrl="https://www.smartcitiesdive.com/feeds/news/"/>
+                <outline text="Common Edge" type="rss" htmlUrl="https://commonedge.org" xmlUrl="https://commonedge.org/feed/"/>
+            </outline>
+            <outline text="Frazetta Girls - Blog" type="rss" htmlUrl="https://www.frazettagirls.com/blogs/news" xmlUrl="https://www.frazettagirls.com/blogs/news.atom"/>
+        </body>
+</opml>
