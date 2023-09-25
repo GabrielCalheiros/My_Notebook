@@ -473,6 +473,13 @@
                 <outline text="Loen Talks" type="rss" htmlUrl="https://anchor.fm/loentalks" xmlUrl="https://anchor.fm/s/13a4f930/podcast/rss"/>
                 <outline text="Broxada Sinistra" type="rss" htmlUrl="http://www.twitter.com/broxadasinistra" xmlUrl="https://pinecast.com/feed/broxadasinistra"/>
             </outline>
+            <outline text="Podcasts - Politics v1">
+                <outline text="Russians With Attitude" type="rss" htmlUrl="https://anchor.fm/russians-with-attitudes" xmlUrl="https://anchor.fm/s/440483e8/podcast/rss"/>
+                <outline text="Pisando em Brasa" type="rss" htmlUrl="https://anchor.fm/nova-resistencia" xmlUrl="https://anchor.fm/s/2847aab8/podcast/rss"/>
+                <outline text="Caribbean Rhythms with BAP" type="rss" htmlUrl="http://glycineputler.libsyn.com/website" xmlUrl="https://glycineputler.libsyn.com/rss"/>
+                <outline text="Red Ice Radio" type="rss" htmlUrl="https://redice.tv/red-ice-radio" xmlUrl="https://redice.tv/rss/red-ice-radio"/>
+                <outline text="Common Sense with Dan Carlin" type="rss" htmlUrl="http://www.dancarlin.com" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense?format=xml"/>
+            </outline>
             <outline text="Podcasts - Politics v2">
                 <outline text="Guten Morgen - Senso Incomum" type="rss" htmlUrl="https://soundcloud.com/senso-incomum-642467380" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:194719183/sounds.rss"/>
                 <outline text="Radio 3Fourteen" type="rss" htmlUrl="https://redice.tv/radio-3fourteen" xmlUrl="https://redice.tv/rss/radio-3fourteen"/>
@@ -499,13 +506,7 @@
                 <outline text="WhiteRabbitRadioTV on Odysee" type="rss" htmlUrl="https://odysee.com/@whiterabbitradio:9" xmlUrl="https://odysee.com/$/rss/@whiterabbitradio:9"/>
                 <outline text="Exodus Americanus" type="rss" htmlUrl="https://audio.nobodyhasthe.biz/channels/exodus_americanus" xmlUrl="https://audio.nobodyhasthe.biz/api/v1/channels/exodus_americanus/rss"/>
             </outline>
-            <outline text="Podcasts - Politics v1">
-                <outline text="Russians With Attitude" type="rss" htmlUrl="https://anchor.fm/russians-with-attitudes" xmlUrl="https://anchor.fm/s/440483e8/podcast/rss"/>
-                <outline text="Pisando em Brasa" type="rss" htmlUrl="https://anchor.fm/nova-resistencia" xmlUrl="https://anchor.fm/s/2847aab8/podcast/rss"/>
-                <outline text="Caribbean Rhythms with BAP" type="rss" htmlUrl="http://glycineputler.libsyn.com/website" xmlUrl="https://glycineputler.libsyn.com/rss"/>
-                <outline text="Red Ice Radio" type="rss" htmlUrl="https://redice.tv/red-ice-radio" xmlUrl="https://redice.tv/rss/red-ice-radio"/>
-                <outline text="Common Sense with Dan Carlin" type="rss" htmlUrl="http://www.dancarlin.com" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense?format=xml"/>
-            </outline>
+            
         </outline>
     </body>
 </opml>
