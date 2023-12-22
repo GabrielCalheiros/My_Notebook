@@ -437,6 +437,7 @@
                 <outline text="Blackbird9s Breakfast club" type="rss" htmlUrl="https://www.spreaker.com/show/frederick-c-blackburns-tracks" xmlUrl="https://www.spreaker.com/show/1630538/episodes/feed"/>
             </outline>
             <outline text="Podcasts - Religion and Spirituality">
+                <outline text="Ek Nekron Podcast" type="rss" htmlUrl="https://deathtotheworld.com" xmlUrl="https://deathtotheworld.com/feed"/>
                 <outline text="Coptic Magical Papyri Podcast" type="rss" htmlUrl="http://www.coptic-magic.phil.uni-wuerzburg.de/" xmlUrl="https://anchor.fm/s/2139d9a8/podcast/rss"/>
                 <outline text="Bronze Podcast on Odysee" type="rss" htmlUrl="https://odysee.com/@BronzePodcast:f" xmlUrl="https://odysee.com/$/rss/@BronzePodcast:f"/>
                 <outline text="PioCast" type="rss" htmlUrl="https://youtube.com/channel/UCXFinVKqdTzqghS25mtzHfg" xmlUrl="https://anchor.fm/s/368e692c/podcast/rss"/>
