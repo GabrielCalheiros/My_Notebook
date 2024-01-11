@@ -285,6 +285,7 @@
                 <outline text="Andreas Xirtus" type="rss" htmlUrl="https://www.youtube.com/channel/UCsUSkNjKw3n2IisWnsfo_QQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsUSkNjKw3n2IisWnsfo_QQ"/>
             </outline>
             <outline text="Videos -  Politics">
+                <outline text="Brother Nathanael" type="rss" htmlUrl="https://www.bitchute.com/channel/ZJeT5Q4CHwch/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/BrotherNathanael/" />
                 <outline text="Sean Last" type="rss" htmlUrl="https://www.bitchute.com/channel/sean_last/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/sean_last"/>
                 <outline text="American Krogan on Odysee" type="rss" htmlUrl="https://odysee.com/@americankrogan:3" xmlUrl="https://odysee.com/$/rss/@americankrogan:3"/>
                 <outline text="Prof. Edward Dutton: The Jolly Heretic on Odysee" type="rss" htmlUrl="https://odysee.com/@JollyHeretic:d" xmlUrl="https://odysee.com/$/rss/@JollyHeretic:d"/>
@@ -488,7 +489,6 @@
                 <outline text="Me Ne Frego Podcast" type="rss" htmlUrl="https://menefregopodcast2.blogspot.com/" xmlUrl="https://feeds.feedburner.com/MeNeFregoPodcast"/>
                 <outline text="Sex Wars" type="rss" htmlUrl="https://sexwars.podbean.com" xmlUrl="https://feed.podbean.com/sexwars/feed.xml"/>
                 <outline text="podcasts | Counter-Currents" type="rss" htmlUrl="https://counter-currents.com" xmlUrl="https://counter-currents.com/tag/podcasts/feed/"/>
-                <outline text="Red Scare" type="rss" htmlUrl="https://redscarepodcast.libsyn.com/" xmlUrl="https://redscarepodcast.libsyn.com/rss"/>
                 <outline text="The Learned Elders of Zyklon" type="rss" htmlUrl="https://sites.libsyn.com/403346" xmlUrl="https://feeds.libsyn.com/403346/rss"/>
                 <outline text="Unloose the Goose Agorist and Libertarian Solutions Podcast" type="rss" htmlUrl="https://unloosethegoose.com" xmlUrl="https://unloosethegoose.com/feed/podcast"/>
                 <outline text="The Martyrmade Podcast" type="rss" htmlUrl="https://martyrmade.com/" xmlUrl="http://www.martyrmade.com/feed/podcast"/>
