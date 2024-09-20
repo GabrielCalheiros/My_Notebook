@@ -159,7 +159,6 @@ body {
   }
   
   /* Cabeçalho */
-  
   .cabeçalho_card {
     display: grid;
     grid-template-columns: 100%;
@@ -182,7 +181,6 @@ body {
   }
   
   /* Feeds*/
-  
   .feed_card {
     display: grid;
     grid-template-columns: 30% 70%;
@@ -260,7 +258,7 @@ body {
   }
 
   .four_collumn_list {
-    columns: 4;
+    columns: 2;
     /* block lists inside lists from separating them */
     -webkit-column-break-inside: avoid;
     font-size: medium;
