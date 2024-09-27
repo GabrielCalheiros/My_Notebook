@@ -37,6 +37,11 @@
   - [Books](#books)
   - [Devotional Items](#devotional-items)
 - [Links to more Resources](#links-to-more-resources)
+- [Books on Orthodox Christianity](#books-on-orthodox-christianity)
+    - [Introduction to Orthodox Christianity](#introduction-to-orthodox-christianity)
+    - [God's Reveletaion to the Human Heart](#gods-reveletaion-to-the-human-heart)
+    - [Protestant and Catholic Background](#protestant-and-catholic-background)
+    - [Schizo/Newage/Occult Orthodox Stuff](#schizonewageoccult-orthodox-stuff)
 
 
 
@@ -237,3 +242,40 @@ The rich spirituality of Orthodox Christianity includes a variety of spiritual a
 - [Ortodox Books 3](https://gabrielcalheiros.github.io/Biblioteca_Bases/infoGraphics/Religion%20&%20Spirituality/Christianity%20-%20Orthodox%203.jpg)
 - [Medieval Mysticism](https://gabrielcalheiros.github.io/Biblioteca_Bases/infoGraphics/Religion%20&%20Spirituality/Medieval%20Mysticism.png)
 - [How to set up a traditional orthodox prayer corner](https://legacyicons.com/blog/how-to-set-up-a-traditional-orthodox-prayer-corner/)
+
+# Books on Orthodox Christianity
+
+### Introduction to Orthodox Christianity
+
+- The Orthodox Study Bible 
+- The Sayings of the Desert Fathers
+- Fr. Seraphim Rose
+- The Way of the Pilgrim
+- The Orthodox Way [Kallistos Ware]
+- The Orthodox Way [Kallistos Ware]
+- The Orthodox Understanding of Salvation [Christopher Veniamin]
+
+### God's Reveletaion to the Human Heart
+
+- The Mystical Theology of the Eastern Church [Vladimir Lossky]
+- Art of Prayer An Orthodox Anthology
+- Orthodox Spirituality [Dumitru Staniloae]
+- On Acquisition the Holy Spirit [St. Seraphim of Sarov]
+- Man and the God-Man [St. Justin Popovich]
+- The Mystical Theology of the Eastern Church [Vladimir Lossky]
+
+### Protestant and Catholic Background
+
+- Rock and Sand [Fr. Josiah Trenham]
+- The Papacy [Abbe Guettée]
+
+### Schizo/Newage/Occult Orthodox Stuff
+
+- The Soul After Death [Fr. Seraphim Rose]
+- Trampling Down Death by Death [Father Spyridon Bailey]
+- Human Image: Wold Image [Philip Sherrard]
+- The Rape of Man and Nature [Philip Sherrard]
+- The Sacred in Life and Art [Philip Sherrard]
+- Orthodoxy and the Religion of the Future [Fr. Seraphim Rose]
+- Orthodoxy and The Kingdom of Satan [Father Spyridon Bailey]
+- The Gurus, the Young Man, and Elder Paisios [Dionysios Farasiotis]
