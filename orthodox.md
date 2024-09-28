@@ -1,33 +1,17 @@
+# Orthodox Christianity
+
 - [Komboskini \& Chotki vs. Rosary \& Terço](#komboskini--chotki-vs-rosary--terço)
   - [Komboskini / Chotki (Prayer Rope)](#komboskini--chotki-prayer-rope)
   - [The Jesus Prayer](#the-jesus-prayer)
   - [Differences and Similarities with the Catholic Rosary](#differences-and-similarities-with-the-catholic-rosary)
-    - [Structure](#structure)
-    - [Purpose](#purpose)
   - [Hesychast Spirituality](#hesychast-spirituality)
   - [How to Use the Orthodox Prayer Rope](#how-to-use-the-orthodox-prayer-rope)
 - [Hesychasm](#hesychasm)
   - [Overview of Hesychasm](#overview-of-hesychasm)
   - [Historical Background](#historical-background)
-    - [Origins and Development](#origins-and-development)
-    - [Hesychast Controversy](#hesychast-controversy)
   - [Theological Foundations](#theological-foundations)
-    - [Theosis (Deification)](#theosis-deification)
-    - [Essence-Energies Distinction](#essence-energies-distinction)
   - [Key Practices of Hesychasm](#key-practices-of-hesychasm)
-    - [1. The Jesus Prayer](#1-the-jesus-prayer)
-    - [2. Inner Stillness and Silence](#2-inner-stillness-and-silence)
-    - [3. Ascetic Discipline](#3-ascetic-discipline)
-    - [4. Posture and Breathing](#4-posture-and-breathing)
-    - [5. Spiritual Guidance](#5-spiritual-guidance)
   - [How to Practice Hesychasm](#how-to-practice-hesychasm)
-    - [1. Learn the Jesus Prayer](#1-learn-the-jesus-prayer)
-    - [2. Create a Prayer Space](#2-create-a-prayer-space)
-    - [3. Establish a Routine](#3-establish-a-routine)
-    - [4. Practice Inner Stillness](#4-practice-inner-stillness)
-    - [5. Engage in Ascetic Practices](#5-engage-in-ascetic-practices)
-    - [6. Seek Spiritual Guidance](#6-seek-spiritual-guidance)
-    - [7. Reflect and Meditate](#7-reflect-and-meditate)
   - [Benefits of Practicing Hesychasm](#benefits-of-practicing-hesychasm)
   - [Considerations and Cautions](#considerations-and-cautions)
 - [How to set up a traditional Orthodox prayer corner](#how-to-set-up-a-traditional-orthodox-prayer-corner)
@@ -39,10 +23,11 @@
 - [Links to more Resources](#links-to-more-resources)
 - [Books on Orthodox Christianity](#books-on-orthodox-christianity)
   - [Introduction to Rene Guenon's critique on the Modern Thinking](#introduction-to-rene-guenons-critique-on-the-modern-thinking)
-    - [Introduction to Orthodox Christianity](#introduction-to-orthodox-christianity)
-    - [God's Reveletaion to the Human Heart](#gods-reveletaion-to-the-human-heart)
-    - [Protestant and Catholic Background](#protestant-and-catholic-background)
-    - [About Schizo/Newage/Occult Stuff](#about-schizonewageoccult-stuff)
+  - [Introduction to Orthodox Christianity](#introduction-to-orthodox-christianity)
+  - [God's Reveletaion to the Human Heart](#gods-reveletaion-to-the-human-heart)
+  - [Protestant and Catholic Background](#protestant-and-catholic-background)
+  - [About Schizo/Newage/Occult Stuff](#about-schizonewageoccult-stuff)
+
 
 
 # Komboskini & Chotki vs. Rosary & Terço
@@ -245,7 +230,7 @@ The rich spirituality of Orthodox Christianity includes a variety of spiritual a
 
 # Books on Orthodox Christianity
 
-## Introduction to Rene Guenon's critique on the Modern Thinking
+### Introduction to Rene Guenon's critique on the Modern Thinking
 
 > Disclaimer: Genon is not an Orthodox Author, but a lot of the authors listed below have been inspired by his work, so to understand their writes, you should also read this books on the matter.
 
