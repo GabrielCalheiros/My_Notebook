@@ -38,11 +38,11 @@
   - [Devotional Items](#devotional-items)
 - [Links to more Resources](#links-to-more-resources)
 - [Books on Orthodox Christianity](#books-on-orthodox-christianity)
+  - [Introduction to Rene Guenon's critique on the Modern Thinking](#introduction-to-rene-guenons-critique-on-the-modern-thinking)
     - [Introduction to Orthodox Christianity](#introduction-to-orthodox-christianity)
     - [God's Reveletaion to the Human Heart](#gods-reveletaion-to-the-human-heart)
     - [Protestant and Catholic Background](#protestant-and-catholic-background)
-    - [Schizo/Newage/Occult Orthodox Stuff](#schizonewageoccult-orthodox-stuff)
-
+    - [About Schizo/Newage/Occult Stuff](#about-schizonewageoccult-stuff)
 
 
 # Komboskini & Chotki vs. Rosary & Terço
@@ -245,6 +245,14 @@ The rich spirituality of Orthodox Christianity includes a variety of spiritual a
 
 # Books on Orthodox Christianity
 
+## Introduction to Rene Guenon's critique on the Modern Thinking
+
+> Disclaimer: Genon is not an Orthodox Author, but a lot of the authors listed below have been inspired by his work, so to understand their writes, you should also read this books on the matter.
+
+- Introduction to the Study of the Hindu Doctrines [Rene Guenon]
+- The Crisis of the Modern World [Rene Guenon]
+- The Reign of Quantity & the Signals of the Times [Rene Guenon]
+
 ### Introduction to Orthodox Christianity
 
 - The Orthodox Study Bible 
@@ -269,7 +277,7 @@ The rich spirituality of Orthodox Christianity includes a variety of spiritual a
 - Rock and Sand [Fr. Josiah Trenham]
 - The Papacy [Abbe Guettée]
 
-### Schizo/Newage/Occult Orthodox Stuff
+### About Schizo/Newage/Occult Stuff
 
 - The Soul After Death [Fr. Seraphim Rose]
 - Trampling Down Death by Death [Father Spyridon Bailey]
