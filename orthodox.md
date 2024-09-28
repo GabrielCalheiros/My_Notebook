@@ -28,7 +28,7 @@
   - [Protestant and Catholic Background](#protestant-and-catholic-background)
   - [About Schizo/Newage/Occult Stuff](#about-schizonewageoccult-stuff)
 
-
+---
 
 # Komboskini & Chotki vs. Rosary & Terço
 
