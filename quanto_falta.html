@@ -7,7 +7,6 @@
     <link rel="shortcut icon" href="./Images/Ornaments/clock_favicon.svg" type="image/x-icon">
 
     <style>
-        
         body {
             background-color: black;
             color: #ffffff;
@@ -22,7 +21,7 @@
 <body>
 
     <p>
-        <strong>Quanto falta pras 18:00h </strong><strong id="date"></strong><strong>?</strong>
+        <strong>Quanto falta pras <span id="target-time">18:00h</span> </strong><strong id="date"></strong><strong>?</strong>
         <br>
         <strong id="qtd"></strong>
     </p>
@@ -32,25 +31,35 @@
     <script>
         function quanto_falta() {
 
-            // The the current date and time
+            // Get the current date and time
             var now = new Date();
 
-            // Get 18h in Date object
-            var date18 = new Date(now.getFullYear(), now.getMonth(), now.getDate(), 18, 0, 0);
+            // Check if today is Saturday (6 = Saturday)
+            var isSaturday = now.getDay() === 6;
 
-            // Get the current date in dd/mm/yyyy format
-            var date_formated = date18.getDate() + "/" + (date18.getMonth() + 1) + "/" + date18.getFullYear();
+            // Set target hour to 12 if it's Saturday, otherwise 18
+            var targetHour = isSaturday ? 12 : 18;
 
-            diference = date18 - now;
+            // Update the displayed target time (12:00 or 18:00)
+            document.getElementById("target-time").innerHTML = targetHour + ":00h";
 
-            // Convert to hours, minutes and seconds
-            var hours = Math.floor((diference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
-            var minutes = Math.floor((diference % (1000 * 60 * 60)) / (1000 * 60));
-            var seconds = Math.floor((diference % (1000 * 60)) / 1000);
+            // Create a Date object for the target time (12:00 or 18:00)
+            var targetTime = new Date(now.getFullYear(), now.getMonth(), now.getDate(), targetHour, 0, 0);
 
-            document.getElementById("qtd").innerHTML = "Faltam " + hours + "h, " + minutes + "min e " + seconds + "s para o 18:00h";
-            document.getElementById("date").innerHTML = date_formated;
+            // Format the current date as dd/mm/yyyy
+            var date_formatted = targetTime.getDate() + "/" + (targetTime.getMonth() + 1) + "/" + targetTime.getFullYear();
 
+            // Calculate the time difference between now and the target time
+            var difference = targetTime - now;
+
+            // Convert the difference to hours, minutes, and seconds
+            var hours = Math.floor((difference % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            var minutes = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
+            var seconds = Math.floor((difference % (1000 * 60)) / 1000);
+
+            // Display the remaining time and formatted date
+            document.getElementById("qtd").innerHTML = "Faltam " + hours + "h, " + minutes + "min e " + seconds + "s para as " + targetHour + ":00h";
+            document.getElementById("date").innerHTML = date_formatted;
         }
 
         // Call the function every 1 second
