@@ -26,6 +26,8 @@
         <strong id="qtd"></strong>
         <br>
         <strong id="movie-times"></strong> <!-- Movie times display -->
+        <br>
+        <strong id="movie-comparison"></strong> <!-- Movie comparison display -->
     </p>
     
 </body>
@@ -62,18 +64,25 @@
             // Convert remaining time to total minutes
             var totalRemainingMinutes = (hours * 60) + minutes + (seconds / 60); // Include seconds as a fraction of a minute
 
-            // Movie duration is 1h 48m, which is 108 minutes
-            var movieDurationMinutes = 1 * 60 + 48;
+            // Movie duration: "Click" is 1h 48m, which is 108 minutes
+            var clickMovieDuration = 108;
 
-            // Calculate how many times you can watch the movie, with fractions
-            var movieTimes = (totalRemainingMinutes / movieDurationMinutes).toFixed(2); // Show with two decimal places
+            // Movie duration: "Homem-Formiga 3" is 2h 50m, which is 170 minutes
+            var homemFormigaDuration = 2 * 60 + 50;
+
+            // Calculate how many times you can watch each movie, with fractions
+            var clickMovieTimes = (totalRemainingMinutes / clickMovieDuration).toFixed(2); // Show with two decimal places
+            var homemFormigaTimes = (totalRemainingMinutes / homemFormigaDuration).toFixed(2);
 
             // Display the remaining time and formatted date
-            document.getElementById("qtd").innerHTML = "Faltam " + hours + "h, " + minutes + "min e " + seconds + "s para as " + targetHour + ":00h";
+            document.getElementById("qtd").innerHTML = "Faltam " + hours + "h, " + minutes + "min e " + seconds + "s para as " + targetHour + ":00h<br>";
             document.getElementById("date").innerHTML = date_formatted;
 
-            // Display how many times you can watch the movie, with fractions
-            document.getElementById("movie-times").innerHTML = "<br>Você poderia assistir Click de Adam Sandler " + movieTimes + " vezes antes das " + targetHour + ":00h.";
+            // Display how many times you can watch "Click"
+            document.getElementById("movie-times").innerHTML = "Você poderia assistir 'Click' de Adam Sandler " + clickMovieTimes + " vezes antes das " + targetHour + ":00h.<br><br>OU<br>";
+
+            // Display how many times you can watch "Homem-Formiga 3"
+            document.getElementById("movie-comparison").innerHTML = "Você poderia assistir 'Homem-Formiga 3' " + homemFormigaTimes + " vezes antes das " + targetHour + ":00h.";
         }
 
         // Call the function every 1 second
