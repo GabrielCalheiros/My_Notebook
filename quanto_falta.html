@@ -24,6 +24,8 @@
         <strong>Quanto falta pras <span id="target-time">18:00h</span> </strong><strong id="date"></strong><strong>?</strong>
         <br>
         <strong id="qtd"></strong>
+        <br>
+        <strong id="movie-times"></strong> <!-- Movie times display -->
     </p>
     
 </body>
@@ -57,9 +59,21 @@
             var minutes = Math.floor((difference % (1000 * 60 * 60)) / (1000 * 60));
             var seconds = Math.floor((difference % (1000 * 60)) / 1000);
 
+            // Convert remaining time to total minutes
+            var totalRemainingMinutes = (hours * 60) + minutes + (seconds / 60); // Include seconds as a fraction of a minute
+
+            // Movie duration is 1h 48m, which is 108 minutes
+            var movieDurationMinutes = 1 * 60 + 48;
+
+            // Calculate how many times you can watch the movie, with fractions
+            var movieTimes = (totalRemainingMinutes / movieDurationMinutes).toFixed(2); // Show with two decimal places
+
             // Display the remaining time and formatted date
             document.getElementById("qtd").innerHTML = "Faltam " + hours + "h, " + minutes + "min e " + seconds + "s para as " + targetHour + ":00h";
             document.getElementById("date").innerHTML = date_formatted;
+
+            // Display how many times you can watch the movie, with fractions
+            document.getElementById("movie-times").innerHTML = "<br>Você poderia assistir Click de Adam Sandler " + movieTimes + " vezes antes das " + targetHour + ":00h.";
         }
 
         // Call the function every 1 second
