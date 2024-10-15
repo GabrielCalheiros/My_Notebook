@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>sex ago 23 08:21:39 2024</dateModified>
+        <dateModified>ter out 15 08:13:51 2024</dateModified>
     </head>
     <body>
         <outline text="News">
@@ -186,7 +186,6 @@
                 <outline text="S2 Underground" type="rss" htmlUrl="https://www.buzzsprout.com/868255" xmlUrl="https://feeds.buzzsprout.com/868255.rss"/>
                 <outline text="Red Ice Radio" type="rss" htmlUrl="https://redice.tv/red-ice-radio" xmlUrl="https://redice.tv/rss/red-ice-radio"/>
             </outline>
-            <outline text="Mundo Freak Confidencial" type="rss" htmlUrl="https://www.mundofreak.com.br" xmlUrl="https://anchor.fm/s/3a943b28/podcast/rss"/>
         </outline>
         <outline text="Videos">
             <outline text="Videos - Archives">
@@ -437,7 +436,7 @@
                 <outline text="Black Pilled" type="rss" htmlUrl="https://www.youtube.com/channel/UCvaHgYcWAAcn5D54w4Dqezg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCvaHgYcWAAcn5D54w4Dqezg"/>
                 <outline text="The Distributist" type="rss" htmlUrl="https://www.youtube.com/channel/UCdHT7KB1gDAXZYpPW71fn0Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCdHT7KB1gDAXZYpPW71fn0Q"/>
                 <outline text="Felix Rex" type="rss" htmlUrl="https://www.youtube.com/channel/UCcOdNCF5e5Ev-57AWf_LpkA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCcOdNCF5e5Ev-57AWf_LpkA"/>
-                <outline text="Black Pigeon Speaks" type="rss" htmlUrl="https://www.bitchute.com/channel/blackpigeonspeaks/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/BlackPigeonSpeaks"/>
+                <outline text="Black Pigeon Speaks" type="rss" htmlUrl="https://api.bitchute.com/channel/blackpigeonspeaks/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/BlackPigeonSpeaks"/>
                 <outline text="Truthstream Media" type="rss" htmlUrl="https://www.youtube.com/channel/UCVEaFSr-jdTa_QE4PPSkVJw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVEaFSr-jdTa_QE4PPSkVJw"/>
                 <outline text="Brasileirinhos" type="rss" htmlUrl="https://www.youtube.com/channel/UCBIubFOWKC-HRGxQHl4BP7g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBIubFOWKC-HRGxQHl4BP7g"/>
                 <outline text="Paul Joseph Watson" type="rss" htmlUrl="https://www.bitchute.com/channel/pauljosephwatson/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/pauljosephwatson"/>
@@ -458,6 +457,7 @@
                 <outline text="Alt Hype Streams" type="rss" htmlUrl="https://www.youtube.com/channel/UCkbPk0OHdeOnjciSgdzxuzQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkbPk0OHdeOnjciSgdzxuzQ"/>
                 <outline text="Fringe Elements on Odysee" type="rss" htmlUrl="https://odysee.com/@TheAltHype:6" xmlUrl="https://odysee.com/$/rss/@TheAltHype:6"/>
                 <outline text="The Alt Hype" type="rss" htmlUrl="https://www.bitchute.com/channel/thealthype/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/thealthype"/>
+                <outline text="Divisão Sancta Crux" type="rss" htmlUrl="https://www.youtube.com/channel/UCfWuyk40d9HHVpjx0C0NBjA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfWuyk40d9HHVpjx0C0NBjA"/>
             </outline>
             <outline text="Videos - History">
                 <outline text="History With Hilbert" type="rss" htmlUrl="https://www.youtube.com/channel/UC1Zc6_BhPXiCWZlrZP4EsEg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1Zc6_BhPXiCWZlrZP4EsEg"/>
