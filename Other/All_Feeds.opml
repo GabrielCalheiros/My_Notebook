@@ -2,26 +2,14 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>qui out 31 11:21:06 2024</dateModified>
+        <dateModified>sáb nov 30 11:08:10 2024</dateModified>
     </head>
     <body>
-        <outline text="Realeases">
-            <outline text="BOOMERANG - News" type="rss" htmlUrl="https://b00merang.weebly.com/news" xmlUrl="https://b00merang.weebly.com/1/feed"/>
-            <outline text="Kodi News" type="rss" htmlUrl="https://kodi.tv" xmlUrl="http://feeds.kodi.tv/xbmc"/>
-            <outline text="Arch Linux: Recent news updates" type="rss" htmlUrl="https://archlinux.org/news/" xmlUrl="https://archlinux.org/feeds/news/"/>
-            <outline text="Announcements - Manjaro Linux Forum" type="rss" htmlUrl="https://forum.manjaro.org/c/announcements/11" xmlUrl="https://forum.manjaro.org/c/announcements/11.rss"/>
-            <outline text="Tails - Notícias" type="rss" htmlUrl="https://tails.net/news/index.en.html" xmlUrl="https://tails.boum.org/news/index.pt.rss"/>
-            <outline text="Release notes from monero-gui" type="rss" htmlUrl="https://github.com/monero-project/monero-gui/releases" xmlUrl="https://github.com/monero-project/monero-gui/releases.atom"/>
-            <outline text="Release notes from batocera.linux" type="rss" htmlUrl="https://github.com/batocera-linux/batocera.linux/releases" xmlUrl="https://github.com/batocera-linux/batocera.linux/releases.atom"/>
-            <outline text="EmulationStation" type="rss" htmlUrl="https://emulationstation.org/news" xmlUrl="https://emulationstation.org/news/?feed=rss2"/>
-            <outline text="GIMP" type="rss" htmlUrl="https://www.gimp.org/" xmlUrl="https://www.gimp.org/feeds/rss.xml"/>
-            <outline text="PortableApps.com" type="rss" htmlUrl="https://portableapps.com" xmlUrl="http://portableapps.com/feeds/general"/>
-        </outline>
         <outline text="News">
             <outline text="News - Sports">
                 <outline text="Flamengo – Notícias e jogo do Flamengo – Coluna do Fla" type="rss" htmlUrl="https://colunadofla.com/" xmlUrl="https://colunadofla.com/feed/"/>
                 <outline text="MMA Fighting - All Posts" type="rss" htmlUrl="https://www.mmafighting.com/" xmlUrl="https://www.mmafighting.com/rss/current.xml"/>
-                <outline text="MMA News" type="rss" htmlUrl="https://www.mmanews.com/" xmlUrl="https://www.mmanews.com/feed/"/>
+                <outline text="MMA News" type="rss" htmlUrl="https://www.mmanews.com" xmlUrl="https://www.mmanews.com/feed/"/>
                 <outline text="Battle of the Nations" type="rss" htmlUrl="https://botn.info" xmlUrl="https://botn.info/feed/"/>
                 <outline text="Esporte News Mundo" type="rss" htmlUrl="https://esportenewsmundo.com.br" xmlUrl="https://esportenewsmundo.com.br/feed/"/>
                 <outline text="Inside Archery" type="rss" htmlUrl="https://insidearchery.com" xmlUrl="https://insidearchery.com/feed/"/>
@@ -43,7 +31,6 @@
             </outline>
             <outline text="News - Geopolitics and War">
                 <outline text="South Front" type="rss" htmlUrl="https://southfront.org" xmlUrl="https://southfront.org/rss"/>
-                <outline text="RT - Daily news" type="rss" htmlUrl="https://www.rt.com" xmlUrl="https://www.rt.com/rss-feed/"/>
                 <outline text="Military Times" type="rss" htmlUrl="https://www.militarytimes.com" xmlUrl="https://www.militarytimes.com/arc/outboundfeeds/rss/category/flashpoints/?outputType=xml"/>
                 <outline text="Militant Wire" type="rss" htmlUrl="https://www.militantwire.com" xmlUrl="https://www.militantwire.com/feed"/>
             </outline>
@@ -55,6 +42,18 @@
                 <outline text="Monero" type="rss" htmlUrl="https://www.getmonero.org/" xmlUrl="https://www.getmonero.org/feed.xml"/>
                 <outline text="News – Blokt – Privacy, Tech, Bitcoin, Blockchain &amp; Cryptocurrency" type="rss" htmlUrl="https://blokt.com" xmlUrl="https://blokt.com/news/feed"/>
             </outline>
+            <outline text="News - Realeases">
+                <outline text="BOOMERANG - News" type="rss" htmlUrl="https://b00merang.weebly.com/news" xmlUrl="https://b00merang.weebly.com/1/feed"/>
+                <outline text="Kodi News" type="rss" htmlUrl="https://kodi.tv" xmlUrl="http://feeds.kodi.tv/xbmc"/>
+                <outline text="Arch Linux: Recent news updates" type="rss" htmlUrl="https://archlinux.org/news/" xmlUrl="https://archlinux.org/feeds/news/"/>
+                <outline text="Announcements - Manjaro Linux Forum" type="rss" htmlUrl="https://forum.manjaro.org/c/announcements/11" xmlUrl="https://forum.manjaro.org/c/announcements/11.rss"/>
+                <outline text="Tails - Notícias" type="rss" htmlUrl="https://tails.net/news/index.en.html" xmlUrl="https://tails.boum.org/news/index.pt.rss"/>
+                <outline text="Release notes from monero-gui" type="rss" htmlUrl="https://github.com/monero-project/monero-gui/releases" xmlUrl="https://github.com/monero-project/monero-gui/releases.atom"/>
+                <outline text="Release notes from batocera.linux" type="rss" htmlUrl="https://github.com/batocera-linux/batocera.linux/releases" xmlUrl="https://github.com/batocera-linux/batocera.linux/releases.atom"/>
+                <outline text="EmulationStation" type="rss" htmlUrl="https://emulationstation.org/news" xmlUrl="https://emulationstation.org/news/?feed=rss2"/>
+                <outline text="GIMP" type="rss" htmlUrl="https://www.gimp.org/" xmlUrl="https://www.gimp.org/feeds/rss.xml"/>
+                <outline text="PortableApps.com" type="rss" htmlUrl="https://portableapps.com" xmlUrl="http://portableapps.com/feeds/general"/>
+            </outline>
             <outline text="News - Technology and Opsec">
                 <outline text="The Software Freedom Conservancy Blog." type="rss" htmlUrl="https://sfconservancy.org/blog/" xmlUrl="https://sfconservancy.org/feeds/blog/"/>
                 <outline text="Planet GNU" type="rss" htmlUrl="https://planet.gnu.org/" xmlUrl="https://planet.gnu.org/rss20.xml"/>
@@ -64,7 +63,7 @@
                 <outline text="HTML Online" type="rss" htmlUrl="https://html-online.com/articles/" xmlUrl="https://html-online.com/articles/feed/"/>
                 <outline text="Linux Journal - The Original Magazine of the Linux Community" type="rss" htmlUrl="https://www.linuxjournal.com/" xmlUrl="https://www.linuxjournal.com/node/feed"/>
                 <outline text="MediaGoblin" type="rss" htmlUrl="https://mediagoblin.org/" xmlUrl="https://mediagoblin.org/news/index.xml"/>
-                <outline text="Schneier on Security" type="rss" htmlUrl="https://www.schneier.com" xmlUrl="https://www.schneier.com/feed/"/>
+                <outline text="Schneier on Security" type="rss" htmlUrl="https://www.schneier.com/" xmlUrl="https://www.schneier.com/feed/"/>
                 <outline text="The Hacker News" type="rss" htmlUrl="https://thehackernews.com" xmlUrl="https://feeds.feedburner.com/TheHackersNews"/>
                 <outline text="It's FOSS" type="rss" htmlUrl="https://itsfoss.com/" xmlUrl="https://itsfoss.com/feed/"/>
                 <outline text="Viva o Linux - Forum" type="rss" htmlUrl="http://www.vivaolinux.com.br/" xmlUrl="https://feeds.feedburner.com/forum-vivaolinux?format=xml"/>
@@ -160,8 +159,6 @@
                 <outline text="Todo Dia Podcast" type="rss" htmlUrl="http://www.mercadodonegro.com.br" xmlUrl="https://anchor.fm/s/5a572fc4/podcast/rss"/>
                 <outline text="Nova Vertente" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/nova-vertente" xmlUrl="https://anchor.fm/s/30ee142c/podcast/rss"/>
                 <outline text="The Paranormies" type="rss" htmlUrl="https://rss.com/podcasts/the-paranormies" xmlUrl="https://media.rss.com/the-paranormies/feed.xml"/>
-                <outline text="NerdCast" type="rss" htmlUrl="https://jovemnerd.com.br" xmlUrl="https://api.jovemnerd.com.br/feed-nerdcast/"/>
-                <outline text="The WeebCast" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/the-weebcast" xmlUrl="https://anchor.fm/s/2b00eb34/podcast/rss"/>
             </outline>
             <outline text="Podcasts - History, Philosophy, etc.">
                 <outline text="Dan Carlin's Hardcore History" type="rss" htmlUrl="http://www.dancarlin.com" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml"/>
@@ -183,13 +180,14 @@
                 <outline text="Me Ne Frego Podcast" type="rss" htmlUrl="https://menefregopodcast2.blogspot.com/" xmlUrl="https://feeds.feedburner.com/MeNeFregoPodcast"/>
                 <outline text="Café Nacional" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/cafenacional" xmlUrl="https://anchor.fm/s/3e36d3f8/podcast/rss"/>
                 <outline text="Silk And Steel Podcast" type="rss" htmlUrl="https://silknsteel.podbean.com" xmlUrl="https://feed.podbean.com/silknsteel/feed.xml"/>
-                <outline text="Blood $atellite" type="rss" htmlUrl="https://bloodsatellite.ca/" xmlUrl="https://bloodsatellite.ca/feed/"/>
-                <outline text="Blood $atellite" type="rss" htmlUrl="https://blood-atellite-729421.zencast.website" xmlUrl="https://media.zencast.fm/blood-atellite-729421/rss"/>
             </outline>
             <outline text="Podcasts - News">
                 <outline text="S2 Underground" type="rss" htmlUrl="https://www.buzzsprout.com/868255" xmlUrl="https://feeds.buzzsprout.com/868255.rss"/>
                 <outline text="Red Ice Radio" type="rss" htmlUrl="https://redice.tv/red-ice-radio" xmlUrl="https://redice.tv/rss/red-ice-radio"/>
             </outline>
+            <outline text="Blood $atellite" type="rss" htmlUrl="https://blood-atellite-729421.zencast.website" xmlUrl="https://media.zencast.fm/blood-atellite-729421/rss"/>
+            <outline text="The WeebCast" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/the-weebcast" xmlUrl="https://anchor.fm/s/2b00eb34/podcast/rss"/>
+            <outline text="Blood $atellite" type="rss" htmlUrl="https://bloodsatellite.ca/" xmlUrl="https://bloodsatellite.ca/feed/"/>
         </outline>
         <outline text="Videos">
             <outline text="Videos - Archives">
@@ -208,6 +206,7 @@
                 <outline text="GST Channel" type="rss" htmlUrl="https://www.youtube.com/channel/UCoQsV1On1wnbGn705cf_9Gw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoQsV1On1wnbGn705cf_9Gw"/>
                 <outline text="Synthetic Man" type="rss" htmlUrl="https://www.youtube.com/channel/UCo8HnWzRvJQTsYNF1Sfhxvw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCo8HnWzRvJQTsYNF1Sfhxvw"/>
                 <outline text="Storymode" type="rss" htmlUrl="https://www.youtube.com/channel/UCGeIjGngCkErevSNHdZYD5Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCGeIjGngCkErevSNHdZYD5Q"/>
+                <outline text="AndyPants Gaming" type="rss" htmlUrl="https://www.youtube.com/channel/UCoOq2zscvS3lkzoxlw1FdUw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoOq2zscvS3lkzoxlw1FdUw"/>
             </outline>
             <outline text="Videos - Culture">
                 <outline text="Kodhak" type="rss" htmlUrl="https://www.youtube.com/channel/UCsvFdTNmGzIIcLwQELw4Lxw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsvFdTNmGzIIcLwQELw4Lxw"/>
@@ -445,10 +444,10 @@
                 <outline text="Black Pigeon Speaks" type="rss" htmlUrl="https://api.bitchute.com/channel/blackpigeonspeaks/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/BlackPigeonSpeaks"/>
                 <outline text="Truthstream Media" type="rss" htmlUrl="https://www.youtube.com/channel/UCVEaFSr-jdTa_QE4PPSkVJw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVEaFSr-jdTa_QE4PPSkVJw"/>
                 <outline text="Brasileirinhos" type="rss" htmlUrl="https://www.youtube.com/channel/UCBIubFOWKC-HRGxQHl4BP7g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBIubFOWKC-HRGxQHl4BP7g"/>
-                <outline text="Paul Joseph Watson" type="rss" htmlUrl="https://www.bitchute.com/channel/pauljosephwatson/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/pauljosephwatson"/>
+                <outline text="Paul Joseph Watson" type="rss" htmlUrl="https://api.bitchute.com/channel/pauljosephwatson/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/pauljosephwatson"/>
                 <outline text="Red Ice TV" type="rss" htmlUrl="https://www.bitchute.com/channel/redicetv/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/RedIceTV"/>
                 <outline text="Cultured_Thug" type="rss" htmlUrl="https://api.bitchute.com/channel/cultured_thug/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/Cultured_Thug"/>
-                <outline text="TheFascifist" type="rss" htmlUrl="https://www.bitchute.com/channel/thefascifist/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/TheFascifist"/>
+                <outline text="TheFascifist" type="rss" htmlUrl="https://api.bitchute.com/channel/thefascifist/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/TheFascifist"/>
                 <outline text="American Renaissance" type="rss" htmlUrl="https://www.bitchute.com/channel/amrenaissance/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/amrenaissance"/>
                 <outline text="Leather Apron Club" type="rss" htmlUrl="https://www.youtube.com/channel/UCqL-oPQEozYkqef04_O47sQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqL-oPQEozYkqef04_O47sQ"/>
                 <outline text="Charlie Cheon" type="rss" htmlUrl="https://www.youtube.com/channel/UC99Nv-47bJEfM7XuBhxiymw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC99Nv-47bJEfM7XuBhxiymw"/>

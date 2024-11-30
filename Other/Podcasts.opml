@@ -5,48 +5,47 @@
         <dateModified>qui out 31 11:21:06 2024</dateModified>
     </head>
     <body>
-        <outline text="Podcasts - Music">
-            <outline text="Rádiofobia Classics" type="rss" htmlUrl="https://radiofobia.com.br/podcast/category/podcast/classics/" xmlUrl="https://www.omnycontent.com/d/playlist/0009b167-0e82-414e-91eb-aae8011fc66d/6e4f7160-4d3f-45af-830d-ac610169e90a/94c2dc7d-c8e2-4f15-9352-ac61016abe3e/podcast.rss"/>
-            <outline text="Brazuca Sounds" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/brazucasounds" xmlUrl="https://anchor.fm/s/47fabbc0/podcast/rss"/>
-        </outline>
-        <outline text="Podcasts - Religion and Spirituality">
-            <outline text="Coptic Magical Papyri Podcast" type="rss" htmlUrl="http://www.coptic-magic.phil.uni-wuerzburg.de/" xmlUrl="https://anchor.fm/s/2139d9a8/podcast/rss"/>
-            <outline text="Bronze Podcast on Odysee" type="rss" htmlUrl="https://odysee.com/@BronzePodcast:f" xmlUrl="https://odysee.com/$/rss/@BronzePodcast:f"/>
-            <outline text="PioCast" type="rss" htmlUrl="https://youtube.com/channel/UCXFinVKqdTzqghS25mtzHfg" xmlUrl="https://anchor.fm/s/368e692c/podcast/rss"/>
-        </outline>
-        <outline text="Podcasts - Variedades">
-            <outline text="Todo Dia Podcast" type="rss" htmlUrl="http://www.mercadodonegro.com.br" xmlUrl="https://anchor.fm/s/5a572fc4/podcast/rss"/>
-            <outline text="Nova Vertente" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/nova-vertente" xmlUrl="https://anchor.fm/s/30ee142c/podcast/rss"/>
-            <outline text="The Paranormies" type="rss" htmlUrl="https://rss.com/podcasts/the-paranormies" xmlUrl="https://media.rss.com/the-paranormies/feed.xml"/>
-            <outline text="NerdCast" type="rss" htmlUrl="https://jovemnerd.com.br" xmlUrl="https://api.jovemnerd.com.br/feed-nerdcast/"/>
-            <outline text="The WeebCast" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/the-weebcast" xmlUrl="https://anchor.fm/s/2b00eb34/podcast/rss"/>
-        </outline>
-        <outline text="Podcasts - History, Philosophy, etc.">
-            <outline text="Dan Carlin's Hardcore History" type="rss" htmlUrl="http://www.dancarlin.com" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml"/>
-            <outline text="Dan Carlin's Hardcore History: Addendum" type="rss" htmlUrl="http://dchhaddendum.libsyn.com/website" xmlUrl="https://dchhaddendum.libsyn.com/rss"/>
-            <outline text="Literature and History" type="rss" htmlUrl="http://literatureandhistory.com" xmlUrl="https://literatureandhistory.libsyn.com/rss"/>
-            <outline text="Not Related! A Big-Braned Podcast" type="rss" htmlUrl="https://notrelated.xyz" xmlUrl="https://notrelated.xyz/rss"/>
-        </outline>
-        <outline text="Podcasts - Comedy">
-            <outline text="PavanCast" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/pavancast" xmlUrl="https://anchor.fm/s/2213b13c/podcast/rss"/>
-            <outline text="Plantão Inútil" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/plantaoinutil" xmlUrl="https://anchor.fm/s/700a82a8/podcast/rss"/>
-            <outline text="Parabellum" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/parabellum" xmlUrl="https://anchor.fm/s/6d5d0134/podcast/rss"/>
-            <outline text="Loen Talks" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/loentalks" xmlUrl="https://anchor.fm/s/13a4f930/podcast/rss"/>
-        </outline>
-        <outline text="Podcasts - Politics">
-            <outline text="Russians With Attitude" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/russians-with-attitudes" xmlUrl="https://anchor.fm/s/440483e8/podcast/rss"/>
-            <outline text="Pisando em Brasa" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/nova-resistencia" xmlUrl="https://anchor.fm/s/2847aab8/podcast/rss"/>
-            <outline text="Radio 3Fourteen" type="rss" htmlUrl="https://redice.tv/radio-3fourteen" xmlUrl="https://redice.tv/rss/radio-3fourteen"/>
-            <outline text="Common Sense with Dan Carlin" type="rss" htmlUrl="http://www.dancarlin.com" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense?format=xml"/>
-            <outline text="Me Ne Frego Podcast" type="rss" htmlUrl="https://menefregopodcast2.blogspot.com/" xmlUrl="https://feeds.feedburner.com/MeNeFregoPodcast"/>
-            <outline text="Café Nacional" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/cafenacional" xmlUrl="https://anchor.fm/s/3e36d3f8/podcast/rss"/>
-            <outline text="Silk And Steel Podcast" type="rss" htmlUrl="https://silknsteel.podbean.com" xmlUrl="https://feed.podbean.com/silknsteel/feed.xml"/>
-            <outline text="Blood $atellite" type="rss" htmlUrl="https://bloodsatellite.ca/" xmlUrl="https://bloodsatellite.ca/feed/"/>
+            <outline text="Podcasts - Music">
+                <outline text="Rádiofobia Classics" type="rss" htmlUrl="https://radiofobia.com.br/podcast/category/podcast/classics/" xmlUrl="https://www.omnycontent.com/d/playlist/0009b167-0e82-414e-91eb-aae8011fc66d/6e4f7160-4d3f-45af-830d-ac610169e90a/94c2dc7d-c8e2-4f15-9352-ac61016abe3e/podcast.rss"/>
+                <outline text="Brazuca Sounds" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/brazucasounds" xmlUrl="https://anchor.fm/s/47fabbc0/podcast/rss"/>
+            </outline>
+            <outline text="Podcasts - Religion and Spirituality">
+                <outline text="Coptic Magical Papyri Podcast" type="rss" htmlUrl="http://www.coptic-magic.phil.uni-wuerzburg.de/" xmlUrl="https://anchor.fm/s/2139d9a8/podcast/rss"/>
+                <outline text="Bronze Podcast on Odysee" type="rss" htmlUrl="https://odysee.com/@BronzePodcast:f" xmlUrl="https://odysee.com/$/rss/@BronzePodcast:f"/>
+                <outline text="PioCast" type="rss" htmlUrl="https://youtube.com/channel/UCXFinVKqdTzqghS25mtzHfg" xmlUrl="https://anchor.fm/s/368e692c/podcast/rss"/>
+            </outline>
+            <outline text="Podcasts - Variedades">
+                <outline text="Todo Dia Podcast" type="rss" htmlUrl="http://www.mercadodonegro.com.br" xmlUrl="https://anchor.fm/s/5a572fc4/podcast/rss"/>
+                <outline text="Nova Vertente" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/nova-vertente" xmlUrl="https://anchor.fm/s/30ee142c/podcast/rss"/>
+                <outline text="The Paranormies" type="rss" htmlUrl="https://rss.com/podcasts/the-paranormies" xmlUrl="https://media.rss.com/the-paranormies/feed.xml"/>
+            </outline>
+            <outline text="Podcasts - History, Philosophy, etc.">
+                <outline text="Dan Carlin's Hardcore History" type="rss" htmlUrl="http://www.dancarlin.com" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml"/>
+                <outline text="Dan Carlin's Hardcore History: Addendum" type="rss" htmlUrl="http://dchhaddendum.libsyn.com/website" xmlUrl="https://dchhaddendum.libsyn.com/rss"/>
+                <outline text="Literature and History" type="rss" htmlUrl="http://literatureandhistory.com" xmlUrl="https://literatureandhistory.libsyn.com/rss"/>
+                <outline text="Not Related! A Big-Braned Podcast" type="rss" htmlUrl="https://notrelated.xyz" xmlUrl="https://notrelated.xyz/rss"/>
+            </outline>
+            <outline text="Podcasts - Comedy">
+                <outline text="PavanCast" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/pavancast" xmlUrl="https://anchor.fm/s/2213b13c/podcast/rss"/>
+                <outline text="Plantão Inútil" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/plantaoinutil" xmlUrl="https://anchor.fm/s/700a82a8/podcast/rss"/>
+                <outline text="Parabellum" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/parabellum" xmlUrl="https://anchor.fm/s/6d5d0134/podcast/rss"/>
+                <outline text="Loen Talks" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/loentalks" xmlUrl="https://anchor.fm/s/13a4f930/podcast/rss"/>
+            </outline>
+            <outline text="Podcasts - Politics">
+                <outline text="Russians With Attitude" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/russians-with-attitudes" xmlUrl="https://anchor.fm/s/440483e8/podcast/rss"/>
+                <outline text="Pisando em Brasa" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/nova-resistencia" xmlUrl="https://anchor.fm/s/2847aab8/podcast/rss"/>
+                <outline text="Radio 3Fourteen" type="rss" htmlUrl="https://redice.tv/radio-3fourteen" xmlUrl="https://redice.tv/rss/radio-3fourteen"/>
+                <outline text="Common Sense with Dan Carlin" type="rss" htmlUrl="http://www.dancarlin.com" xmlUrl="http://feeds.feedburner.com/dancarlin/commonsense?format=xml"/>
+                <outline text="Me Ne Frego Podcast" type="rss" htmlUrl="https://menefregopodcast2.blogspot.com/" xmlUrl="https://feeds.feedburner.com/MeNeFregoPodcast"/>
+                <outline text="Café Nacional" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/cafenacional" xmlUrl="https://anchor.fm/s/3e36d3f8/podcast/rss"/>
+                <outline text="Silk And Steel Podcast" type="rss" htmlUrl="https://silknsteel.podbean.com" xmlUrl="https://feed.podbean.com/silknsteel/feed.xml"/>
+            </outline>
+            <outline text="Podcasts - News">
+                <outline text="S2 Underground" type="rss" htmlUrl="https://www.buzzsprout.com/868255" xmlUrl="https://feeds.buzzsprout.com/868255.rss"/>
+                <outline text="Red Ice Radio" type="rss" htmlUrl="https://redice.tv/red-ice-radio" xmlUrl="https://redice.tv/rss/red-ice-radio"/>
+            </outline>
             <outline text="Blood $atellite" type="rss" htmlUrl="https://blood-atellite-729421.zencast.website" xmlUrl="https://media.zencast.fm/blood-atellite-729421/rss"/>
-        </outline>
-        <outline text="Podcasts - News">
-            <outline text="S2 Underground" type="rss" htmlUrl="https://www.buzzsprout.com/868255" xmlUrl="https://feeds.buzzsprout.com/868255.rss"/>
-            <outline text="Red Ice Radio" type="rss" htmlUrl="https://redice.tv/red-ice-radio" xmlUrl="https://redice.tv/rss/red-ice-radio"/>
-        </outline>
+            <outline text="The WeebCast" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/the-weebcast" xmlUrl="https://anchor.fm/s/2b00eb34/podcast/rss"/>
+            <outline text="Blood $atellite" type="rss" htmlUrl="https://bloodsatellite.ca/" xmlUrl="https://bloodsatellite.ca/feed/"/>
     </body>
 </opml>
