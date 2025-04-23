@@ -1,5 +1,5 @@
 :root {
-    --primary: #282828;
+    --primary: #ffffff;
     --secondary: #ff5252;
     --background: #000000;
     --highlight: #ffda79;
@@ -36,8 +36,8 @@
   .tab__label,
   .tab__close {
     display: flex;
-    color: white;
-    background: var(--theme);
+    color: black;
+    background: white;
     cursor: pointer;
   }
   .tab__label {
