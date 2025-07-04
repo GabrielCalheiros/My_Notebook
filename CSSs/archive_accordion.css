@@ -81,3 +81,22 @@
     }
   }
   
+
+  .corpo {  display: grid;
+    grid-template-columns: 0.6fr 0.6fr;
+    grid-template-rows: 1fr;
+    gap: 0px 0px;
+    grid-auto-flow: row;
+    grid-template-areas:
+      "colunaUm colunaDois";
+  }
+  
+  .colunaUm { 
+    grid-area: colunaUm;
+    padding: 20px;
+   }
+  
+  .colunaDois { 
+    grid-area: colunaDois; 
+    padding: 20px;
+  }    
