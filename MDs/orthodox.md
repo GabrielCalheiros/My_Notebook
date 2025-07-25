@@ -245,7 +245,6 @@ The rich spirituality of Orthodox Christianity includes a variety of spiritual a
 - Fr. Seraphim Rose
 - The Way of the Pilgrim
 - The Orthodox Way [Kallistos Ware]
-- The Orthodox Way [Kallistos Ware]
 - The Orthodox Understanding of Salvation [Christopher Veniamin]
 
 ### God's Reveletaion to the Human Heart
