@@ -2,9 +2,10 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>sáb nov 30 11:08:10 2024</dateModified>
+        <dateModified>ter jul 29 17:21:33 2025</dateModified>
     </head>
     <body>
+        <outline text="QuiteRSS" type="rss" htmlUrl="https://quiterss.org" xmlUrl="https://quiterss.org/en/rss.xml"/>
         <outline text="News">
             <outline text="News - Sports">
                 <outline text="Flamengo – Notícias e jogo do Flamengo – Coluna do Fla" type="rss" htmlUrl="https://colunadofla.com/" xmlUrl="https://colunadofla.com/feed/"/>
@@ -127,7 +128,7 @@
                 <outline text="First Things RSS Feed - First Thoughts" type="rss" htmlUrl="https://www.firstthings.com/blogs/firstthoughts" xmlUrl="https://www.firstthings.com/rss/blogs/firstthoughts"/>
                 <outline text="First Things RSS Feed - Web Exclusives | Daily Writings From Our Top Writers | First Things" type="rss" htmlUrl="https://www.firstthings.com/web-exclusives" xmlUrl="https://www.firstthings.com/rss/web-exclusives"/>
                 <outline text="Coptic Magical Papyri" type="rss" htmlUrl="https://www.coptic-magic.phil.uni-wuerzburg.de" xmlUrl="https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/feed/"/>
-                <outline text="Leithart" type="rss" htmlUrl="https://www.patheos.com/blogs/leithart" xmlUrl="https://www.patheos.com/blogs/leithart/feed/?type=blogs&amp;permalink=leithart"/>
+                <outline text="Leithart" type="rss" htmlUrl="https://www.patheos.com/blogs/leithart/" xmlUrl="https://www.patheos.com/blogs/leithart/feed/?type=blogs&amp;permalink=leithart"/>
                 <outline text="The Social Pathologist" type="rss" htmlUrl="https://socialpathology.blogspot.com/" xmlUrl="https://socialpathology.blogspot.com/feeds/posts/default?alt=rss"/>
                 <outline text="AntiDem" type="rss" htmlUrl="https://antidem.wordpress.com" xmlUrl="https://antidem.wordpress.com/feed/"/>
                 <outline text="Christians for Truth" type="rss" htmlUrl="https://christiansfortruth.com/" xmlUrl="https://christiansfortruth.com/feed/"/>
@@ -182,7 +183,7 @@
                 <outline text="Silk And Steel Podcast" type="rss" htmlUrl="https://silknsteel.podbean.com" xmlUrl="https://feed.podbean.com/silknsteel/feed.xml"/>
             </outline>
             <outline text="Podcasts - News">
-                <outline text="S2 Underground" type="rss" htmlUrl="https://www.buzzsprout.com/868255" xmlUrl="https://feeds.buzzsprout.com/868255.rss"/>
+                <outline text="S2 Underground" type="rss" htmlUrl="https://s2underground.buzzsprout.com" xmlUrl="https://feeds.buzzsprout.com/868255.rss"/>
                 <outline text="Red Ice Radio" type="rss" htmlUrl="https://redice.tv/red-ice-radio" xmlUrl="https://redice.tv/rss/red-ice-radio"/>
             </outline>
             <outline text="Blood $atellite" type="rss" htmlUrl="https://blood-atellite-729421.zencast.website" xmlUrl="https://media.zencast.fm/blood-atellite-729421/rss"/>
@@ -423,6 +424,7 @@
                 <outline text="PARASYKE TV" type="rss" htmlUrl="https://www.youtube.com/channel/UCV1ZplGiDAOHuizt0noAKlg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV1ZplGiDAOHuizt0noAKlg"/>
                 <outline text="Static in the attic" type="rss" htmlUrl="https://www.youtube.com/channel/UCjnUvgimc9OjX843EzD1J_Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjnUvgimc9OjX843EzD1J_Q"/>
                 <outline text="The Secret Sun Institute" type="rss" htmlUrl="https://www.youtube.com/channel/UC3jb-gg6Hw3HH3Ej0tBxDpQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3jb-gg6Hw3HH3Ej0tBxDpQ"/>
+                <outline text="Zeta-Files" type="rss" htmlUrl="https://www.youtube.com/channel/UCrmSRMKLxiNfR6W-GgPtPxg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrmSRMKLxiNfR6W-GgPtPxg"/>
             </outline>
             <outline text="Videos - Politics">
                 <outline text="Sean Last" type="rss" htmlUrl="https://api.bitchute.com/channel/sean_last/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/sean_last"/>
@@ -445,10 +447,10 @@
                 <outline text="Truthstream Media" type="rss" htmlUrl="https://www.youtube.com/channel/UCVEaFSr-jdTa_QE4PPSkVJw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVEaFSr-jdTa_QE4PPSkVJw"/>
                 <outline text="Brasileirinhos" type="rss" htmlUrl="https://www.youtube.com/channel/UCBIubFOWKC-HRGxQHl4BP7g" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBIubFOWKC-HRGxQHl4BP7g"/>
                 <outline text="Paul Joseph Watson" type="rss" htmlUrl="https://api.bitchute.com/channel/pauljosephwatson/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/pauljosephwatson"/>
-                <outline text="Red Ice TV" type="rss" htmlUrl="https://www.bitchute.com/channel/redicetv/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/RedIceTV"/>
+                <outline text="Red Ice TV" type="rss" htmlUrl="https://api.bitchute.com/channel/redicetv/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/RedIceTV"/>
                 <outline text="Cultured_Thug" type="rss" htmlUrl="https://api.bitchute.com/channel/cultured_thug/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/Cultured_Thug"/>
                 <outline text="TheFascifist" type="rss" htmlUrl="https://api.bitchute.com/channel/thefascifist/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/TheFascifist"/>
-                <outline text="American Renaissance" type="rss" htmlUrl="https://www.bitchute.com/channel/amrenaissance/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/amrenaissance"/>
+                <outline text="American Renaissance" type="rss" htmlUrl="https://api.bitchute.com/channel/amrenaissance/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/amrenaissance"/>
                 <outline text="Leather Apron Club" type="rss" htmlUrl="https://www.youtube.com/channel/UCqL-oPQEozYkqef04_O47sQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqL-oPQEozYkqef04_O47sQ"/>
                 <outline text="Charlie Cheon" type="rss" htmlUrl="https://www.youtube.com/channel/UC99Nv-47bJEfM7XuBhxiymw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC99Nv-47bJEfM7XuBhxiymw"/>
                 <outline text="Vanguardia Colombia" type="rss" htmlUrl="https://www.youtube.com/channel/UCHwDbvaq6CCHlYEPvaW7XDg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHwDbvaq6CCHlYEPvaW7XDg"/>
@@ -461,7 +463,7 @@
                 <outline text="Black Pigeon Speaks" type="rss" htmlUrl="https://www.youtube.com/channel/UCmrLCXSDScliR7q8AxxjvXg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCmrLCXSDScliR7q8AxxjvXg"/>
                 <outline text="Alt Hype Streams" type="rss" htmlUrl="https://www.youtube.com/channel/UCkbPk0OHdeOnjciSgdzxuzQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkbPk0OHdeOnjciSgdzxuzQ"/>
                 <outline text="Fringe Elements on Odysee" type="rss" htmlUrl="https://odysee.com/@TheAltHype:6" xmlUrl="https://odysee.com/$/rss/@TheAltHype:6"/>
-                <outline text="The Alt Hype" type="rss" htmlUrl="https://www.bitchute.com/channel/thealthype/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/thealthype"/>
+                <outline text="The Alt Hype" type="rss" htmlUrl="https://api.bitchute.com/channel/thealthype/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/thealthype"/>
                 <outline text="Divisão Sancta Crux" type="rss" htmlUrl="https://www.youtube.com/channel/UCfWuyk40d9HHVpjx0C0NBjA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfWuyk40d9HHVpjx0C0NBjA"/>
             </outline>
             <outline text="Videos - History">
