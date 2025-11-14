@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>ter jul 29 17:21:33 2025</dateModified>
+        <dateModified>seg nov 10 17:31:23 2025</dateModified>
     </head>
     <body>
         <outline text="QuiteRSS" type="rss" htmlUrl="https://quiterss.org" xmlUrl="https://quiterss.org/en/rss.xml"/>
@@ -277,6 +277,7 @@
                 <outline text="Lazy Masquerade" type="rss" htmlUrl="https://www.youtube.com/channel/UC7dHBh9QmYF1L0TOeGIzZgw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7dHBh9QmYF1L0TOeGIzZgw"/>
                 <outline text="Bedtime Stories" type="rss" htmlUrl="https://www.youtube.com/channel/UCCD4-G3Aokt2sM7TYQV2HmA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCCD4-G3Aokt2sM7TYQV2HmA"/>
                 <outline text="Redlyne" type="rss" htmlUrl="https://www.youtube.com/channel/UCPD7FU73S_mMMsxSr03oOSQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCPD7FU73S_mMMsxSr03oOSQ"/>
+                <outline text="Bob Gymlan" type="rss" htmlUrl="https://www.youtube.com/channel/UCVJLEQ0AoKBwD0I_IzSO5wg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCVJLEQ0AoKBwD0I_IzSO5wg"/>
             </outline>
             <outline text="Videos - Religion, Spirituality, etc">
                 <outline text="Jonathan Pageau" type="rss" htmlUrl="https://www.youtube.com/channel/UCtCTSf3UwRU14nYWr_xm-dQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCtCTSf3UwRU14nYWr_xm-dQ"/>
@@ -518,6 +519,7 @@
                 <outline text="New Mind" type="rss" htmlUrl="https://www.youtube.com/channel/UC5_Y-BKzq1uW_2rexWkUzlA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC5_Y-BKzq1uW_2rexWkUzlA"/>
                 <outline text="carykh" type="rss" htmlUrl="https://www.youtube.com/channel/UC9z7EZAbkphEMg0SP7rw44A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9z7EZAbkphEMg0SP7rw44A"/>
                 <outline text="Sabine Hossenfelder" type="rss" htmlUrl="https://www.youtube.com/channel/UC1yNl2E66ZzKApQdRuTQ4tw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1yNl2E66ZzKApQdRuTQ4tw"/>
+                <outline text="Sam Zeloof" type="rss" htmlUrl="https://www.youtube.com/channel/UC7E8-0Ou69hwScPW1_fQApA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC7E8-0Ou69hwScPW1_fQApA"/>
             </outline>
         </outline>
     </body>
