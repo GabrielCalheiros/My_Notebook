@@ -2,7 +2,7 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>seg nov 10 17:31:23 2025</dateModified>
+        <dateModified>qua nov 19 11:13:42 2025</dateModified>
     </head>
     <body>
         <outline text="QuiteRSS" type="rss" htmlUrl="https://quiterss.org" xmlUrl="https://quiterss.org/en/rss.xml"/>
@@ -228,6 +228,7 @@
                 <outline text="TheAlmightyLoli" type="rss" htmlUrl="https://www.youtube.com/channel/UCznmmSVMbr7E3isp3xYRqug" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCznmmSVMbr7E3isp3xYRqug"/>
                 <outline text="RedLetterMedia" type="rss" htmlUrl="https://www.youtube.com/channel/UCrTNhL_yO3tPTdQ5XgmmWjA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrTNhL_yO3tPTdQ5XgmmWjA"/>
                 <outline text="Art Chad" type="rss" htmlUrl="https://www.youtube.com/channel/UC2Y0KKomVw83JDgjVqVCGzg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2Y0KKomVw83JDgjVqVCGzg"/>
+                <outline text="KULTURE DADS Podcast" type="rss" htmlUrl="https://www.youtube.com/channel/UCeS8ctSolI7QX5dtaYceCbQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeS8ctSolI7QX5dtaYceCbQ"/>
             </outline>
             <outline text="Videos - Health">
                 <outline text="The Bioneer" type="rss" htmlUrl="https://www.youtube.com/channel/UCIh_TPYPqjJuS_-nOfAIlfg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIh_TPYPqjJuS_-nOfAIlfg"/>
@@ -290,6 +291,7 @@
                 <outline text="Mr. Mythos" type="rss" htmlUrl="https://www.youtube.com/channel/UCKaoE6fyoUJOgcoqbyuK9LQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKaoE6fyoUJOgcoqbyuK9LQ"/>
                 <outline text="Aurora de Ferro" type="rss" htmlUrl="https://www.youtube.com/channel/UCv736-Ip05H3_ZVqG1xynQw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCv736-Ip05H3_ZVqG1xynQw"/>
                 <outline text="ESOTERICA" type="rss" htmlUrl="https://www.youtube.com/channel/UCoydhtfFSk1fZXNRnkGnneQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCoydhtfFSk1fZXNRnkGnneQ"/>
+                <outline text="Zebulon" type="rss" htmlUrl="https://www.youtube.com/channel/UCJNd5cCba_7erY__Y-KVstQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJNd5cCba_7erY__Y-KVstQ"/>
             </outline>
             <outline text="Videos - Anthropology">
                 <outline text="AshaLogos" type="rss" htmlUrl="https://api.bitchute.com/channel/ashalogos/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/AshaLogos"/>
@@ -398,12 +400,14 @@
                 <outline text="The Onion" type="rss" htmlUrl="https://www.youtube.com/channel/UCfAOh2t5DpxVrgS9NQKjC7A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfAOh2t5DpxVrgS9NQKjC7A"/>
                 <outline text="Value Select" type="rss" htmlUrl="https://www.youtube.com/channel/UCsnVnnNneaz0E7aQPD_o0BQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCsnVnnNneaz0E7aQPD_o0BQ"/>
                 <outline text="SkyCorp Home Video" type="rss" htmlUrl="https://www.youtube.com/channel/UCIoDNWuAq3wPv11BXbr5xMg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIoDNWuAq3wPv11BXbr5xMg"/>
+                <outline text="The Bunker" type="rss" htmlUrl="https://www.youtube.com/channel/UC4aFb2E8GPcQ1Mfm8DWpi1Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4aFb2E8GPcQ1Mfm8DWpi1Q"/>
             </outline>
             <outline text="Videos -  Dissident Archeology">
                 <outline text="Mystery History" type="rss" htmlUrl="https://www.youtube.com/channel/UCC9JHVPm-4P5QDp9vk8EH-A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCC9JHVPm-4P5QDp9vk8EH-A"/>
                 <outline text="Brien Foerster" type="rss" htmlUrl="https://www.youtube.com/channel/UCOavg1FtdeuyUTLz3wmuIKQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCOavg1FtdeuyUTLz3wmuIKQ"/>
                 <outline text="Ancient Architects" type="rss" htmlUrl="https://www.youtube.com/channel/UCscI4NOggNSN-Si5QgErNCw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCscI4NOggNSN-Si5QgErNCw"/>
                 <outline text="Graham Hancock Official Channel" type="rss" htmlUrl="https://www.youtube.com/channel/UCk_foUwmaHeFhmAZMnEHQsw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCk_foUwmaHeFhmAZMnEHQsw"/>
+                <outline text="INCREDIBLE HISTORY" type="rss" htmlUrl="https://www.youtube.com/channel/UCfD1izC-DAoTSm5LCbs4AIQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfD1izC-DAoTSm5LCbs4AIQ"/>
             </outline>
             <outline text="Videos -  Conspiracy">
                 <outline text="Mysterious Middle East" type="rss" htmlUrl="https://www.youtube.com/channel/UCYoulQOH1t8fRNyCoxPC_Tw" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYoulQOH1t8fRNyCoxPC_Tw"/>
@@ -426,6 +430,8 @@
                 <outline text="Static in the attic" type="rss" htmlUrl="https://www.youtube.com/channel/UCjnUvgimc9OjX843EzD1J_Q" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjnUvgimc9OjX843EzD1J_Q"/>
                 <outline text="The Secret Sun Institute" type="rss" htmlUrl="https://www.youtube.com/channel/UC3jb-gg6Hw3HH3Ej0tBxDpQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC3jb-gg6Hw3HH3Ej0tBxDpQ"/>
                 <outline text="Zeta-Files" type="rss" htmlUrl="https://www.youtube.com/channel/UCrmSRMKLxiNfR6W-GgPtPxg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCrmSRMKLxiNfR6W-GgPtPxg"/>
+                <outline text="FLESH SIMULATOR" type="rss" htmlUrl="https://www.youtube.com/channel/UCxSwqqnJp9HsW0hBrHcp1FQ" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCxSwqqnJp9HsW0hBrHcp1FQ"/>
+                <outline text="Coop" type="rss" htmlUrl="https://www.youtube.com/channel/UCpFxqvOu2vaS6L0uWSJPJhg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpFxqvOu2vaS6L0uWSJPJhg"/>
             </outline>
             <outline text="Videos - Politics">
                 <outline text="Sean Last" type="rss" htmlUrl="https://api.bitchute.com/channel/sean_last/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/sean_last"/>
@@ -466,6 +472,7 @@
                 <outline text="Fringe Elements on Odysee" type="rss" htmlUrl="https://odysee.com/@TheAltHype:6" xmlUrl="https://odysee.com/$/rss/@TheAltHype:6"/>
                 <outline text="The Alt Hype" type="rss" htmlUrl="https://api.bitchute.com/channel/thealthype/" xmlUrl="https://www.bitchute.com/feeds/rss/channel/thealthype"/>
                 <outline text="Divisão Sancta Crux" type="rss" htmlUrl="https://www.youtube.com/channel/UCfWuyk40d9HHVpjx0C0NBjA" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCfWuyk40d9HHVpjx0C0NBjA"/>
+                <outline text="C Kyle" type="rss" htmlUrl="https://www.youtube.com/channel/UCWKjjJgDk06N0dxWpMCXt8A" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCWKjjJgDk06N0dxWpMCXt8A"/>
             </outline>
             <outline text="Videos - History">
                 <outline text="History With Hilbert" type="rss" htmlUrl="https://www.youtube.com/channel/UC1Zc6_BhPXiCWZlrZP4EsEg" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC1Zc6_BhPXiCWZlrZP4EsEg"/>
