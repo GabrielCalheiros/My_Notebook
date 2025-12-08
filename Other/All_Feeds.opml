@@ -2,21 +2,21 @@
 <opml version="2.0">
     <head>
         <title>QuiteRSS</title>
-        <dateModified>qua nov 19 11:13:42 2025</dateModified>
+        <dateModified>seg dez 8 09:42:42 2025</dateModified>
     </head>
     <body>
         <outline text="QuiteRSS" type="rss" htmlUrl="https://quiterss.org" xmlUrl="https://quiterss.org/en/rss.xml"/>
         <outline text="News">
             <outline text="News - Sports">
                 <outline text="Flamengo – Notícias e jogo do Flamengo – Coluna do Fla" type="rss" htmlUrl="https://colunadofla.com/" xmlUrl="https://colunadofla.com/feed/"/>
-                <outline text="MMA Fighting - All Posts" type="rss" htmlUrl="https://www.mmafighting.com/" xmlUrl="https://www.mmafighting.com/rss/current.xml"/>
+                <outline text="MMA Fighting - All Posts" type="rss" htmlUrl="https://www.mmafighting.com" xmlUrl="https://www.mmafighting.com/rss/current.xml"/>
                 <outline text="MMA News" type="rss" htmlUrl="https://www.mmanews.com" xmlUrl="https://www.mmanews.com/feed/"/>
                 <outline text="Battle of the Nations" type="rss" htmlUrl="https://botn.info" xmlUrl="https://botn.info/feed/"/>
                 <outline text="Esporte News Mundo" type="rss" htmlUrl="https://esportenewsmundo.com.br" xmlUrl="https://esportenewsmundo.com.br/feed/"/>
                 <outline text="Inside Archery" type="rss" htmlUrl="https://insidearchery.com" xmlUrl="https://insidearchery.com/feed/"/>
             </outline>
             <outline text="News - Games">
-                <outline text="Indie Games Plus" type="rss" htmlUrl="https://indiegamesplus.com/" xmlUrl="https://indiegamesplus.com/feed"/>
+                <outline text="Indie Games Plus" type="rss" htmlUrl="https://summer728.indiegamesplus.com/" xmlUrl="https://indiegamesplus.com/feed"/>
                 <outline text="Steam RSS News Feed" type="rss" htmlUrl="http://www.steampowered.com/" xmlUrl="https://store.steampowered.com/feeds/news.xml"/>
             </outline>
             <outline text="News - Culture and Politics">
@@ -83,6 +83,7 @@
                 <outline text="z THE ECO CHRISTOFASCIFIST z - Telegram Channel" type="rss" htmlUrl="https://t.me/s/catholicwigger" xmlUrl="https://rsshub.app/telegram/channel/catholicwigger"/>
                 <outline text="Christian Aryanism — Fides et Gens, Inseperable. - Telegram Channel" type="rss" htmlUrl="https://t.me/s/ChristianAryanism" xmlUrl="https://rsshub.app/telegram/channel/ChristianAryanism"/>
             </outline>
+            <outline text="Papo Furado Podcast" type="rss" htmlUrl="https://papofuradopodcast.wordpress.com/" xmlUrl="https://anchor.fm/s/721f0168/podcast/rss"/>
         </outline>
         <outline text="Blogs">
             <outline text="Blogs - Politics">
@@ -99,7 +100,7 @@
                 <outline text="The Occidental Observer" type="rss" htmlUrl="https://www.theoccidentalobserver.net" xmlUrl="https://www.theoccidentalobserver.net/feed/"/>
                 <outline text="History Reviewed" type="rss" htmlUrl="https://historyreviewed.best" xmlUrl="http://historyreviewed.best/index.php/feed/"/>
                 <outline text="AFFIRMATIVE RIGHT" type="rss" htmlUrl="http://affirmativeright.blogspot.com/" xmlUrl="https://feeds.feedburner.com/AffirmativeRight"/>
-                <outline text="Vanguard News Network" type="rss" htmlUrl="http://www.vanguardnewsnetwork.com" xmlUrl="http://www.vanguardnewsnetwork.com/feed/"/>
+                <outline text="Vanguard News Network" type="rss" htmlUrl="https://vnnforum.com" xmlUrl="http://www.vanguardnewsnetwork.com/feed/"/>
                 <outline text="New Frontier" type="rss" htmlUrl="https://newfrontierusa.org" xmlUrl="https://newfrontierusa.org/feed/"/>
                 <outline text="The Creativity Alliance" type="rss" htmlUrl="https://creativityalliance.com/" xmlUrl="https://creativityalliance.com/feed/"/>
             </outline>
@@ -158,20 +159,28 @@
             </outline>
             <outline text="Podcasts - Variedades">
                 <outline text="Todo Dia Podcast" type="rss" htmlUrl="http://www.mercadodonegro.com.br" xmlUrl="https://anchor.fm/s/5a572fc4/podcast/rss"/>
+                <outline text="The WeebCast" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/the-weebcast" xmlUrl="https://anchor.fm/s/2b00eb34/podcast/rss"/>
                 <outline text="Nova Vertente" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/nova-vertente" xmlUrl="https://anchor.fm/s/30ee142c/podcast/rss"/>
-                <outline text="The Paranormies" type="rss" htmlUrl="https://rss.com/podcasts/the-paranormies" xmlUrl="https://media.rss.com/the-paranormies/feed.xml"/>
+                <outline text="The Joe Rogan Experience" type="rss" htmlUrl="https://feeds.megaphone.fm" xmlUrl="https://feeds.megaphone.fm/GLT1412515089"/>
+                <outline text="NerdCast" type="rss" htmlUrl="https://jovemnerd.com.br" xmlUrl="https://feeds.megaphone.fm/JNPD6227286900"/>
+                <outline text="Matando Robos Gigantes" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/matandorobosgigantes" xmlUrl="https://anchor.fm/s/7f78c9c/podcast/rss"/>
+                <outline text="99Vidas - Nostalgia e Videogames" type="rss" htmlUrl="http://99vidas.com.br/" xmlUrl="https://anchor.fm/s/f0480b34/podcast/rss"/>
             </outline>
             <outline text="Podcasts - History, Philosophy, etc.">
                 <outline text="Dan Carlin's Hardcore History" type="rss" htmlUrl="http://www.dancarlin.com" xmlUrl="http://feeds.feedburner.com/dancarlin/history?format=xml"/>
+                <outline text="The Martyr Made Podcast" type="rss" htmlUrl="https://www.martyrmade.com" xmlUrl="https://feeds.blubrry.com/feeds/martyrmade_podcast.xml"/>
                 <outline text="Dan Carlin's Hardcore History: Addendum" type="rss" htmlUrl="http://dchhaddendum.libsyn.com/website" xmlUrl="https://dchhaddendum.libsyn.com/rss"/>
                 <outline text="Literature and History" type="rss" htmlUrl="http://literatureandhistory.com" xmlUrl="https://literatureandhistory.libsyn.com/rss"/>
                 <outline text="Not Related! A Big-Braned Podcast" type="rss" htmlUrl="https://notrelated.xyz" xmlUrl="https://notrelated.xyz/rss"/>
+                <outline text="History Homos" type="rss" htmlUrl="https://historyhomospod.substack.com" xmlUrl="https://anchor.fm/s/2431f8ac/podcast/rss"/>
+                <outline text="History on Fire" type="rss" htmlUrl="http://historyonfirepodcast.com/episodes/" xmlUrl="https://rss.introcast.io/1038514498/feeds.megaphone.fm/TPG8904827717"/>
             </outline>
             <outline text="Podcasts - Comedy">
                 <outline text="PavanCast" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/pavancast" xmlUrl="https://anchor.fm/s/2213b13c/podcast/rss"/>
                 <outline text="Plantão Inútil" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/plantaoinutil" xmlUrl="https://anchor.fm/s/700a82a8/podcast/rss"/>
                 <outline text="Parabellum" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/parabellum" xmlUrl="https://anchor.fm/s/6d5d0134/podcast/rss"/>
                 <outline text="Loen Talks" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/loentalks" xmlUrl="https://anchor.fm/s/13a4f930/podcast/rss"/>
+                <outline text="Cum Town Premium" type="rss" htmlUrl="https://castbox.fm/ch/5344240" xmlUrl="http://rss.castbox.fm/everest/79b9b9699c674e0d974e74e2cbeeca19.xml"/>
             </outline>
             <outline text="Podcasts - Politics">
                 <outline text="Russians With Attitude" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/russians-with-attitudes" xmlUrl="https://anchor.fm/s/440483e8/podcast/rss"/>
@@ -181,14 +190,21 @@
                 <outline text="Me Ne Frego Podcast" type="rss" htmlUrl="https://menefregopodcast2.blogspot.com/" xmlUrl="https://feeds.feedburner.com/MeNeFregoPodcast"/>
                 <outline text="Café Nacional" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/cafenacional" xmlUrl="https://anchor.fm/s/3e36d3f8/podcast/rss"/>
                 <outline text="Silk And Steel Podcast" type="rss" htmlUrl="https://silknsteel.podbean.com" xmlUrl="https://feed.podbean.com/silknsteel/feed.xml"/>
+                <outline text="glycineputler's podcast" type="rss" htmlUrl="http://glycineputler.libsyn.com/website" xmlUrl="https://feeds.libsyn.com/217709/rss"/>
             </outline>
             <outline text="Podcasts - News">
                 <outline text="S2 Underground" type="rss" htmlUrl="https://s2underground.buzzsprout.com" xmlUrl="https://feeds.buzzsprout.com/868255.rss"/>
                 <outline text="Red Ice Radio" type="rss" htmlUrl="https://redice.tv/red-ice-radio" xmlUrl="https://redice.tv/rss/red-ice-radio"/>
             </outline>
-            <outline text="Blood $atellite" type="rss" htmlUrl="https://blood-atellite-729421.zencast.website" xmlUrl="https://media.zencast.fm/blood-atellite-729421/rss"/>
-            <outline text="The WeebCast" type="rss" htmlUrl="https://podcasters.spotify.com/pod/show/the-weebcast" xmlUrl="https://anchor.fm/s/2b00eb34/podcast/rss"/>
-            <outline text="Blood $atellite" type="rss" htmlUrl="https://bloodsatellite.ca/" xmlUrl="https://bloodsatellite.ca/feed/"/>
+            <outline text="Podcasts - Conspiracy">
+                <outline text="Correio do Extraordinário" type="rss" htmlUrl="https://www.spreaker.com/show/correio-do-extraordinario" xmlUrl="https://www.spreaker.com/show/6027209/episodes/feed"/>
+                <outline text="Paranormal FM" type="rss" htmlUrl="https://www.spreaker.com/podcast/paranormal-fm--6092668" xmlUrl="https://www.omnycontent.com/d/playlist/f7f86f6a-2fbd-4ac7-ab53-b01900e5d187/50a04b8b-4a61-489a-8fb6-b217011eebe0/dccb57e5-3774-4557-8519-b217011eec71/podcast.rss"/>
+                <outline text="Mundo Freak Confidencial" type="rss" htmlUrl="https://www.mundofreak.com.br" xmlUrl="https://anchor.fm/s/3a943b28/podcast/rss"/>
+                <outline text="Jay'sAnalysis" type="rss" htmlUrl="https://jaysanalysis.com" xmlUrl="https://www.spreaker.com/show/1423846/episodes/feed"/>
+                <outline text="The Paranormies" type="rss" htmlUrl="https://rss.com/podcasts/the-paranormies" xmlUrl="https://media.rss.com/the-paranormies/feed.xml"/>
+                <outline text="Bunker X" type="rss" htmlUrl="https://www.bunkerx.com.br/" xmlUrl="https://anchor.fm/s/d02d9508/podcast/rss"/>
+                <outline text="Mysterious Universe" type="rss" htmlUrl="https://mysteriousuniverse.org" xmlUrl="https://feeds.megaphone.fm/mupod"/>
+            </outline>
         </outline>
         <outline text="Videos">
             <outline text="Videos - Archives">
