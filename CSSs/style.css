@@ -288,3 +288,11 @@ body {
   .four_collumn_list li ul{
     margin-top: 10px;;
   }
+
+@media (max-width: 925px) {
+
+  body {
+    margin-left: 5%;
+    width: 90%;
+  }
+}
