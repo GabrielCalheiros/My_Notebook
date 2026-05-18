@@ -1,23 +1,36 @@
-  body {
-/* Largura */
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+    /* Largura */
+    width: 100%;
     max-width: 800px;
+    padding: 12px;
     margin: auto;
     background-color: #000000f2;
     animation: textShadow 6s infinite;
     font-family: 'Courier New', monospace;
     letter-spacing: .1em;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size: clamp(14px, 2vw, 20px);
+    line-height: 1.5;
     color:#32FF00;
     overflow-x: hidden;
   }
+
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
   
   pre {
-    font-size: 7px;
-    margin-top: 2%;
-    margin-left: 0;
+    font-size: clamp(3px, 1vw, 7px);
+    width: 100%;
+    margin-top: 10px;
     text-align: justify;
     letter-spacing: normal;
+    overflow-x: hidden;
+    white-space: pre;
   }
 
   a{
@@ -81,6 +94,7 @@
   background: linear-gradient(rgba(18, 16, 16, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, rgba(255, 0, 0, 0.06), rgba(0, 255, 0, 0.02), rgba(0, 0, 255, 0.06));
   background-size: 100% 2px, 3px 100%;
   pointer-events: none;
+  position: fixed;
 }
 
 @keyframes textShadow {
@@ -150,35 +164,48 @@
 }
 
 
-.feed_card_virada {  display: grid;
-  grid-template-columns: 25% 75%;
-  grid-template-rows: 100%;
-  grid-auto-columns: 1fr;
-  gap: 0px 0px;
-  grid-auto-flow: row;
-  grid-template-areas:
-    "text opção";
-  width: 100%;
-  height: 6%;
+/* PARAGRAPHS */
+p {
+  font-size: clamp(12px, 3vw, 16px);
 }
-.opção { grid-area: opção; }
 
-.text { grid-area: text; }
+/* HEADINGS */
+h1 {
+  font-size: clamp(10px, 3vw, 16px);
+}
+
+h5 {
+  font-size: clamp(18px, 6vw, 30px);
+}
+
+a {
+  display: inline-block;
+  width: 100%;
+  overflow-wrap: break-word;
+  word-break: break-word;
+  line-height: 1.0;
+  margin-bottom: 6px;
+}
 
 ul {
   font-size: small;
   list-style-image: url('');
 }
 
-.levels_categories {  display: grid;
-  grid-template-columns: 30% 70%;
-  grid-template-rows: 1fr;
-  gap: 0px 0px;
-  grid-auto-flow: row;
-  grid-template-areas:
-    "Levels Categories";
+/* SMALL SCREENS */
+@media (max-width: 600px) {
+
+  body {
+    padding: 10px;
+    letter-spacing: 0.03em;
+  }
+
+  pre {
+    font-size: 3px;
+  }
+
+  a {
+    font-size: 14px;
+  }
+
 }
-
-.Categories { grid-area: Categories; }
-
-.Levels { grid-area: Levels; }
