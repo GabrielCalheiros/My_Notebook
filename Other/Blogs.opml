@@ -1,69 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <opml version="2.0">
-    <head>
-        <title>QuiteRSS</title>
-        <dateModified>qui out 31 11:21:06 2024</dateModified>
-    </head>
-    <body>
-            <outline text="Blogs - Politics">
-                <outline text="The Alternative Hypothesis" type="rss" htmlUrl="https://thealternativehypothesis.org" xmlUrl="http://thealternativehypothesis.org/index.php/feed/"/>
-                <outline text="Counter-Currents" type="rss" htmlUrl="https://counter-currents.com" xmlUrl="https://counter-currents.com/feed/"/>
-                <outline text="William M. Briggs" type="rss" htmlUrl="https://www.wmbriggs.com" xmlUrl="https://www.wmbriggs.com/feed/"/>
-                <outline text="The Z Blog" type="rss" htmlUrl="https://thezman.com/wordpress" xmlUrl="https://thezman.com/wordpress/?feed=rss2"/>
-                <outline text="Darwinian Reactionary" type="rss" htmlUrl="https://darwinianreactionary.wordpress.com" xmlUrl="https://darwinianreactionary.wordpress.com/feed/"/>
-                <outline text="Dividuals" type="rss" htmlUrl="https://dividuals.wordpress.com" xmlUrl="https://dividuals.wordpress.com/feed/"/>
-                <outline text="Anomaly UK" type="rss" htmlUrl="https://www.anomalyblog.co.uk" xmlUrl="https://blog.anomalyuk.party/feed/"/>
-                <outline text="Carlsbad 1819" type="rss" htmlUrl="https://carlsbad1819.wordpress.com" xmlUrl="https://carlsbad1819.wordpress.com/feed/"/>
-                <outline text="ACCALE Nacionalismo" type="rss" htmlUrl="https://accale.org" xmlUrl="https://accale.org/feed/"/>
-                <outline text="Fisted by Foucault" type="rss" htmlUrl="https://niccolo.substack.com" xmlUrl="https://niccolo.substack.com/feed"/>
-                <outline text="The Occidental Observer" type="rss" htmlUrl="https://www.theoccidentalobserver.net" xmlUrl="https://www.theoccidentalobserver.net/feed/"/>
-                <outline text="History Reviewed" type="rss" htmlUrl="https://historyreviewed.best" xmlUrl="http://historyreviewed.best/index.php/feed/"/>
-                <outline text="AFFIRMATIVE RIGHT" type="rss" htmlUrl="http://affirmativeright.blogspot.com/" xmlUrl="https://feeds.feedburner.com/AffirmativeRight"/>
-                <outline text="Vanguard News Network" type="rss" htmlUrl="http://www.vanguardnewsnetwork.com" xmlUrl="http://www.vanguardnewsnetwork.com/feed/"/>
-                <outline text="New Frontier" type="rss" htmlUrl="https://newfrontierusa.org" xmlUrl="https://newfrontierusa.org/feed/"/>
-                <outline text="The Creativity Alliance" type="rss" htmlUrl="https://creativityalliance.com/" xmlUrl="https://creativityalliance.com/feed/"/>
-            </outline>
-            <outline text="Blogs - Health">
-                <outline text="Herculean Strength" type="rss" htmlUrl="https://herculeanstrength.com" xmlUrl="https://herculeanstrength.com/feed/"/>
-            </outline>
-            <outline text="Blogs - Technology">
-                <outline text="Can I Use updates" type="rss" htmlUrl="https://caniuse.com/feed" xmlUrl="http://feeds.feedburner.com/WhenCanIUse"/>
-                <outline text="Luke Smith" type="rss" htmlUrl="https://lukesmith.xyz/" xmlUrl="https://lukesmith.xyz/rss.xml"/>
-                <outline text="Danluu" type="rss" htmlUrl="https://danluu.com/atom/index.xml" xmlUrl="https://danluu.com/atom.xml"/>
-                <outline text="emhmki.org RSS feed" type="rss" htmlUrl="http://emhmki.org/" xmlUrl="https://web.emhmki.org/feed/index.html"/>
-                <outline text="CSS-Tricks" type="rss" htmlUrl="https://css-tricks.com" xmlUrl="https://css-tricks.com/feed/"/>
-                <outline text="CSS Working Group Blog" type="rss" htmlUrl="https://www.w3.org/blog/CSS" xmlUrl="http://www.w3.org/blog/CSS/feed/atom/"/>
-                <outline text="Planet WebKit" type="rss" htmlUrl="https://planet.webkit.org/" xmlUrl="http://planet.webkit.org/atom.xml"/>
-                <outline text="Opensource.com" type="rss" htmlUrl="https://opensource.com/" xmlUrl="https://opensource.com/feed"/>
-                <outline text="Privacy Guides: Encryption, Tracking, Security and Privacy Tools" type="rss" htmlUrl="https://www.privacytools.io/guides/" xmlUrl="https://www.privacytools.io/guides/rss.xml"/>
-                <outline text="Knowledge Base" type="rss" htmlUrl="https://bgstack15.ddns.net/blog/" xmlUrl="https://bgstack15.ddns.net/blog/rss.xml"/>
-                <outline text="Blogs - AdminLTE.IO" type="rss" htmlUrl="https://adminlte.io/blog/" xmlUrl="https://adminlte.io/blog/feed/"/>
-            </outline>
-            <outline text="Blogs - Archeofuturism +or-">
-                <outline text="Aurora de Ferro" type="rss" htmlUrl="https://auroradeferro.org" xmlUrl="https://auroradeferro.org/f.rss"/>
-                <outline text="Aureus Press" type="rss" htmlUrl="https://www.aureus-press.com" xmlUrl="https://www.aureus-press.com/feed/"/>
-                <outline text="Palladium" type="rss" htmlUrl="https://www.palladiummag.com/" xmlUrl="https://palladiummag.com/feed/"/>
-            </outline>
-            <outline text="Blogs - Religion and Spirituality">
-                <outline text="First Things RSS Feed - First Thoughts" type="rss" htmlUrl="https://www.firstthings.com/blogs/firstthoughts" xmlUrl="https://www.firstthings.com/rss/blogs/firstthoughts"/>
-                <outline text="First Things RSS Feed - Web Exclusives | Daily Writings From Our Top Writers | First Things" type="rss" htmlUrl="https://www.firstthings.com/web-exclusives" xmlUrl="https://www.firstthings.com/rss/web-exclusives"/>
-                <outline text="Coptic Magical Papyri" type="rss" htmlUrl="https://www.coptic-magic.phil.uni-wuerzburg.de" xmlUrl="https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/feed/"/>
-                <outline text="Leithart" type="rss" htmlUrl="https://www.patheos.com/blogs/leithart" xmlUrl="https://www.patheos.com/blogs/leithart/feed/?type=blogs&amp;permalink=leithart"/>
-                <outline text="The Social Pathologist" type="rss" htmlUrl="https://socialpathology.blogspot.com/" xmlUrl="https://socialpathology.blogspot.com/feeds/posts/default?alt=rss"/>
-                <outline text="AntiDem" type="rss" htmlUrl="https://antidem.wordpress.com" xmlUrl="https://antidem.wordpress.com/feed/"/>
-                <outline text="Christians for Truth" type="rss" htmlUrl="https://christiansfortruth.com/" xmlUrl="https://christiansfortruth.com/feed/"/>
-            </outline>
-            <outline text="Blogs - Culture">
-                <outline text="Excuse The Blood" type="rss" htmlUrl="https://excusetheblood.wordpress.com" xmlUrl="https://excusetheblood.wordpress.com/feed/"/>
-                <outline text="Excuse The Blood's Newsletter" type="rss" htmlUrl="https://excusetheblood.substack.com" xmlUrl="https://excusetheblood.substack.com/feed"/>
-                <outline text="Henry Dampier" type="rss" htmlUrl="http://www.henrydampier.com/" xmlUrl="http://www.henrydampier.com/feed/"/>
-                <outline text="Nexus Newsfeed" type="rss" htmlUrl="https://nexusnewsfeed.com/" xmlUrl="https://nexusnewsfeed.com/?view=rss"/>
-                <outline text="Isegoria" type="rss" htmlUrl="https://www.isegoria.net" xmlUrl="https://www.isegoria.net/feed/"/>
-                <outline text="Frazetta Girls - Blog" type="rss" htmlUrl="https://www.frazettagirls.com/blogs/news" xmlUrl="https://www.frazettagirls.com/blogs/news.atom"/>
-            </outline>
-            <outline text="Blogs - Architecture and Urbanism">
-                <outline text="Smart Cities Dive - Latest News" type="rss" htmlUrl="https://www.smartcitiesdive.com/news/" xmlUrl="https://www.smartcitiesdive.com/feeds/news/"/>
-                <outline text="Common Edge" type="rss" htmlUrl="https://commonedge.org" xmlUrl="https://commonedge.org/feed/"/>
-            </outline>
-    </body>
+  <head>
+    <title>RSS Guard</title>
+    <dateCreated>Tue, 19 May 2026 18:51:49 GMT</dateCreated>
+  </head>
+  <body>
+    <outline description="" text="Blogs">
+      <outline description="" text="Blogs - Politics">
+        <outline description="" encoding="UTF-8" text="The Alternative Hypothesis" title="The Alternative Hypothesis" type="rss" version="RSS" xmlUrl="http://thealternativehypothesis.org/index.php/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="The soul is not an indivisible unit and has no unified will" encoding="UTF-8" text="Dividuals" title="Dividuals" type="rss" version="RSS" xmlUrl="https://dividuals.wordpress.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Empedokles says that things are in motion part of the time and again they are at rest; they are in motion when Love tends to make one out of many, or Strife tends to make many out of one..." encoding="UTF-8" text="Darwinian Reactionary" title="Darwinian Reactionary" type="rss" version="RSS" xmlUrl="https://darwinianreactionary.wordpress.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Carlsbad 1819" title="Carlsbad 1819" type="rss" version="RSS" xmlUrl="https://carlsbad1819.wordpress.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="ACCALE Nacionalismo" title="ACCALE Nacionalismo" type="rss" version="RSS" xmlUrl="https://accale.org/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="The Truth they are hiding from you" encoding="UTF-8" text="History Reviewed" title="History Reviewed" type="rss" version="RSS" xmlUrl="http://historyreviewed.best/index.php/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Statistician to the Stars!" encoding="UTF-8" text="William M. Briggs" title="William M. Briggs" type="rss" version="RSS" xmlUrl="https://www.wmbriggs.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="You'll never think of Foucault the same way again" encoding="UTF-8" text="Fisted by Foucault" title="Fisted by Foucault" type="rss" version="RSS" xmlUrl="https://niccolo.substack.com/feed" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="The Founding Site of the Alt-Right" encoding="UTF-8" text="AFFIRMATIVE RIGHT" title="AFFIRMATIVE RIGHT" type="rss" version="RSS" xmlUrl="https://feeds.feedburner.com/AffirmativeRight" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Vanguard News Network" title="Vanguard News Network" type="rss" version="RSS" xmlUrl="https://vnnforum.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Sports, Culture and Other Stuff" encoding="UTF-8" text="The Z Blog" title="The Z Blog" type="rss" version="RSS" xmlUrl="https://thezman.com/wordpress/?feed=rss2" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Incorporating Your Church of Creativity" encoding="UTF-8" text="The Creativity Alliance" title="The Creativity Alliance" type="rss" version="RSS" xmlUrl="https://creativityalliance.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="White Identity, Interests, and Culture" encoding="UTF-8" text="The Occidental Observer" title="The Occidental Observer" type="rss" version="RSS" xmlUrl="https://www.theoccidentalobserver.net/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Counter-Currents Publishing, home of the North American New Right, Books Against Time, and Counter-Currents Radio." encoding="UTF-8" text="Counter-Currents" title="Counter-Currents" type="rss" version="RSS" xmlUrl="https://counter-currents.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Anomalous Opinions" encoding="UTF-8" text="Anomaly UK" title="Anomaly UK" type="rss" version="RSS" xmlUrl="https://www.anomalyblog.co.uk/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="New Frontier" title="New Frontier" type="rss" version="RSS" xmlUrl="https://newfrontierusa.org/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="Blogs - Technology">
+        <outline description="Cascading Style Sheets Working Group Blog" encoding="UTF-8" text="CSS WG Blog" title="CSS WG Blog" type="rss" version="ATOM" xmlUrl="https://www.w3.org/blog/CSS/feed/atom/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Most popular Bootstrap admin dashboard template in the world with 5M users. Download it now!" encoding="UTF-8" text="Blogs - AdminLTE.IO" title="Blogs - AdminLTE.IO" type="rss" version="RSS" xmlUrl="https://adminlte.io/blog/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="emhmki.org RSS feed" title="emhmki.org RSS feed" type="rss" version="RSS" xmlUrl="https://web.emhmki.org/feed/index.html" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Can I Use updates" title="Can I Use updates" type="rss" version="ATOM" xmlUrl="http://feeds.feedburner.com/WhenCanIUse" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Opensource.com" title="Opensource.com" type="rss" version="RSS" xmlUrl="https://opensource.com/feed" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Protect your digital footprint with the expert's guide to online privacy. Our comprehensive guides cover everything you need to know to stay safe online." encoding="UTF-8" text="Privacy Guides: The Expert's Guide to Online Privacy in 2023" title="Privacy Guides: The Expert's Guide to Online Privacy in 2023" type="rss" version="RSS" xmlUrl="https://www.privacytools.io/guides/rss.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Preserving for the future: Shell scripts, AoC, and more" encoding="UTF-8" text="Knowledge Base" title="Knowledge Base" type="rss" version="RSS" xmlUrl="https://bgstack15.ddns.net/blog/rss.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Tips, Tricks, and Techniques on using Cascading Style Sheets." encoding="UTF-8" text="CSS-Tricks" title="CSS-Tricks" type="rss" version="RSS" xmlUrl="https://css-tricks.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Recent content in Luke Smith's Webpage on Luke Smith" encoding="UTF-8" text="Luke Smith's Webpage on Luke Smith" title="Luke Smith's Webpage on Luke Smith" type="rss" version="RSS" xmlUrl="https://lukesmith.xyz/rss.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Planet WebKit" title="Planet WebKit" type="rss" version="ATOM" xmlUrl="https://planet.webkit.org/atom.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="Blogs - Archeofuturism +or-">
+        <outline description="" encoding="UTF-8" text="Aureus Press" title="Aureus Press" type="rss" version="RSS" xmlUrl="https://www.aureus-press.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Aurora de Ferro" title="Aurora de Ferro" type="rss" version="RSS" xmlUrl="https://auroradeferro.org/f.rss" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Governance Futurism" encoding="UTF-8" text="Palladium" title="Palladium" type="rss" version="RSS" xmlUrl="https://www.palladiummag.com/feed/index.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="Blogs - Religion and Spirituality">
+        <outline description="" encoding="UTF-8" text="Christians for Truth" title="Christians for Truth" type="rss" version="RSS" xmlUrl="https://christiansfortruth.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Exploring the Brave New World" encoding="UTF-8" text="AntiDem" title="AntiDem" type="rss" version="RSS" xmlUrl="https://antidem.wordpress.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="First Things RSS Feed - Web Exclusives | Daily Writings From Our Top Writers | First Things" title="First Things RSS Feed - Web Exclusives | Daily Writings From Our Top Writers | First Things" type="rss" version="RSS" xmlUrl="https://www.firstthings.com/rss/web-exclusives" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="My blog is a public notebook, featuring essays, notes, and explorations on Scripture, theology, literature, politics, culture." encoding="UTF-8" text="Leithart" title="Leithart" type="rss" version="RSS" xmlUrl="https://www.patheos.com/blogs/leithart/feed/?type=blogs&amp;permalink=leithart" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="First Things RSS Feed - First Thoughts" title="First Things RSS Feed - First Thoughts" type="rss" version="RSS" xmlUrl="https://www.firstthings.com/rss/blogs/firstthoughts" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="The Diseases of Modern Life as seen through the Secular Confessional" encoding="UTF-8" text="The Social Pathologist" title="The Social Pathologist" type="rss" version="RSS" xmlUrl="https://socialpathology.blogspot.com/feeds/posts/default?alt=rss" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Coptic Magical Papyri" title="Coptic Magical Papyri" type="rss" version="RSS" xmlUrl="https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="Blogs - Culture">
+        <outline description="" encoding="UTF-8" text="Frazetta Girls - Blog" title="Frazetta Girls - Blog" type="rss" version="RSS" xmlUrl="https://www.frazettagirls.com/blogs/news.atom" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Culture. Art. Critique." encoding="UTF-8" text="Excuse The Blood" title="Excuse The Blood" type="rss" version="RSS" xmlUrl="https://excusetheblood.wordpress.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="A blog about music, culture, art, film and life." encoding="UTF-8" text="Excuse The Blood's Newsletter" title="Excuse The Blood's Newsletter" type="rss" version="RSS" xmlUrl="https://excusetheblood.substack.com/feed" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="On the outer right side of history" encoding="UTF-8" text="Henry Dampier" title="Henry Dampier" type="rss" version="RSS" xmlUrl="http://www.henrydampier.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="From the ancient Greek for equality in freedom of speech; an eclectic mix of thoughts, large and small" encoding="UTF-8" text="Isegoria" title="Isegoria" type="rss" version="RSS" xmlUrl="https://www.isegoria.net/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Nexus Newsfeed" title="Nexus Newsfeed" type="rss" version="RSS" xmlUrl="https://nexusnewsfeed.com/?view=rss" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="Blogs - Architecture and Urbanism">
+        <outline description="Smart Cities" encoding="UTF-8" text="Smart Cities Dive - Latest News" title="Smart Cities Dive - Latest News" type="rss" version="RSS" xmlUrl="https://www.smartcitiesdive.com/feeds/news/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Common Edge" title="Common Edge" type="rss" version="RSS" xmlUrl="https://commonedge.org/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+    </outline>
+  </body>
 </opml>

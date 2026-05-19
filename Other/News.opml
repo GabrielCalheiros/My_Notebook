@@ -1,72 +1,70 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <opml version="2.0">
-    <head>
-        <title>QuiteRSS</title>
-        <dateModified>qui out 31 11:21:06 2024</dateModified>
-    </head>
-    <body>
-            <outline text="News - Sports">
-                <outline text="Flamengo – Notícias e jogo do Flamengo – Coluna do Fla" type="rss" htmlUrl="https://colunadofla.com/" xmlUrl="https://colunadofla.com/feed/"/>
-                <outline text="MMA Fighting - All Posts" type="rss" htmlUrl="https://www.mmafighting.com/" xmlUrl="https://www.mmafighting.com/rss/current.xml"/>
-                <outline text="MMA News" type="rss" htmlUrl="https://www.mmanews.com" xmlUrl="https://www.mmanews.com/feed/"/>
-                <outline text="Battle of the Nations" type="rss" htmlUrl="https://botn.info" xmlUrl="https://botn.info/feed/"/>
-                <outline text="Esporte News Mundo" type="rss" htmlUrl="https://esportenewsmundo.com.br" xmlUrl="https://esportenewsmundo.com.br/feed/"/>
-                <outline text="Inside Archery" type="rss" htmlUrl="https://insidearchery.com" xmlUrl="https://insidearchery.com/feed/"/>
-            </outline>
-            <outline text="News - Games">
-                <outline text="Indie Games Plus" type="rss" htmlUrl="https://indiegamesplus.com/" xmlUrl="https://indiegamesplus.com/feed"/>
-                <outline text="Steam RSS News Feed" type="rss" htmlUrl="http://www.steampowered.com/" xmlUrl="https://store.steampowered.com/feeds/news.xml"/>
-            </outline>
-            <outline text="News - Culture and Politics">
-                <outline text="Kirksville Today" type="rss" htmlUrl="https://www.kirksvilletoday.com" xmlUrl="http://www.kirksvilletoday.com/feed/"/>
-                <outline text="DISSENT WATCH" type="rss" htmlUrl="https://dissentwatch.com" xmlUrl="https://dissentwatch.com/feed/"/>
-                <outline text="American Free Press" type="rss" htmlUrl="https://americanfreepress.net" xmlUrl="https://americanfreepress.net/feed/"/>
-                <outline text="American Renaissance" type="rss" htmlUrl="https://www.amren.com/" xmlUrl="https://www.amren.com/feed/"/>
-                <outline text="Red Ice News" type="rss" htmlUrl="https://redice.tv/rss/news" xmlUrl="https://redice.tv/rss/news"/>
-                <outline text="National File" type="rss" htmlUrl="https://nationalfile.com/" xmlUrl="https://nationalfile.com/feed/"/>
-                <outline text="Trad News" type="rss" htmlUrl="https://trad-news.blogspot.com/" xmlUrl="https://trad-news.blogspot.com/feeds/posts/default?alt=rss"/>
-                <outline text="Occidental Dissent" type="rss" htmlUrl="https://occidentaldissent.com" xmlUrl="https://occidentaldissent.com/feed/"/>
-                <outline text="National Justice" type="rss" htmlUrl="https://national-justice.com/" xmlUrl="https://national-justice.com/feeds/feedly"/>
-            </outline>
-            <outline text="News - Geopolitics and War">
-                <outline text="South Front" type="rss" htmlUrl="https://southfront.org" xmlUrl="https://southfront.org/rss"/>
-                <outline text="Military Times" type="rss" htmlUrl="https://www.militarytimes.com" xmlUrl="https://www.militarytimes.com/arc/outboundfeeds/rss/category/flashpoints/?outputType=xml"/>
-                <outline text="Militant Wire" type="rss" htmlUrl="https://www.militantwire.com" xmlUrl="https://www.militantwire.com/feed"/>
-            </outline>
-            <outline text="News - South America">
-                <outline text="Nova Resistência" type="rss" htmlUrl="https://novaresistencia.org" xmlUrl="https://novaresistencia.org/feed/"/>
-            </outline>
-            <outline text="News - Finance">
-                <outline text="ZeroHedge News" type="rss" htmlUrl="https://www.zerohedge.com" xmlUrl="https://feeds.feedburner.com/zerohedge/feed"/>
-                <outline text="Monero" type="rss" htmlUrl="https://www.getmonero.org/" xmlUrl="https://www.getmonero.org/feed.xml"/>
-                <outline text="News – Blokt – Privacy, Tech, Bitcoin, Blockchain &amp; Cryptocurrency" type="rss" htmlUrl="https://blokt.com" xmlUrl="https://blokt.com/news/feed"/>
-            </outline>
-            <outline text="News - Realeases">
-                <outline text="BOOMERANG - News" type="rss" htmlUrl="https://b00merang.weebly.com/news" xmlUrl="https://b00merang.weebly.com/1/feed"/>
-                <outline text="Kodi News" type="rss" htmlUrl="https://kodi.tv" xmlUrl="http://feeds.kodi.tv/xbmc"/>
-                <outline text="Arch Linux: Recent news updates" type="rss" htmlUrl="https://archlinux.org/news/" xmlUrl="https://archlinux.org/feeds/news/"/>
-                <outline text="Announcements - Manjaro Linux Forum" type="rss" htmlUrl="https://forum.manjaro.org/c/announcements/11" xmlUrl="https://forum.manjaro.org/c/announcements/11.rss"/>
-                <outline text="Tails - Notícias" type="rss" htmlUrl="https://tails.net/news/index.en.html" xmlUrl="https://tails.boum.org/news/index.pt.rss"/>
-                <outline text="Release notes from monero-gui" type="rss" htmlUrl="https://github.com/monero-project/monero-gui/releases" xmlUrl="https://github.com/monero-project/monero-gui/releases.atom"/>
-                <outline text="Release notes from batocera.linux" type="rss" htmlUrl="https://github.com/batocera-linux/batocera.linux/releases" xmlUrl="https://github.com/batocera-linux/batocera.linux/releases.atom"/>
-                <outline text="EmulationStation" type="rss" htmlUrl="https://emulationstation.org/news" xmlUrl="https://emulationstation.org/news/?feed=rss2"/>
-                <outline text="GIMP" type="rss" htmlUrl="https://www.gimp.org/" xmlUrl="https://www.gimp.org/feeds/rss.xml"/>
-                <outline text="PortableApps.com" type="rss" htmlUrl="https://portableapps.com" xmlUrl="http://portableapps.com/feeds/general"/>
-            </outline>
-            <outline text="News - Technology and Opsec">
-                <outline text="The Software Freedom Conservancy Blog." type="rss" htmlUrl="https://sfconservancy.org/blog/" xmlUrl="https://sfconservancy.org/feeds/blog/"/>
-                <outline text="Planet GNU" type="rss" htmlUrl="https://planet.gnu.org/" xmlUrl="https://planet.gnu.org/rss20.xml"/>
-                <outline text="Software Freedom Conservancy News" type="rss" htmlUrl="https://sfconservancy.org/news/" xmlUrl="https://sfconservancy.org/feeds/news/"/>
-                <outline text="FSF News" type="rss" htmlUrl="http://www.fsf.org/news/aggregator" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml"/>
-                <outline text="suckless.org news" type="rss" htmlUrl="https://www.suckless.org" xmlUrl="https://suckless.org/atom.xml"/>
-                <outline text="HTML Online" type="rss" htmlUrl="https://html-online.com/articles/" xmlUrl="https://html-online.com/articles/feed/"/>
-                <outline text="Linux Journal - The Original Magazine of the Linux Community" type="rss" htmlUrl="https://www.linuxjournal.com/" xmlUrl="https://www.linuxjournal.com/node/feed"/>
-                <outline text="MediaGoblin" type="rss" htmlUrl="https://mediagoblin.org/" xmlUrl="https://mediagoblin.org/news/index.xml"/>
-                <outline text="Schneier on Security" type="rss" htmlUrl="https://www.schneier.com/" xmlUrl="https://www.schneier.com/feed/"/>
-                <outline text="The Hacker News" type="rss" htmlUrl="https://thehackernews.com" xmlUrl="https://feeds.feedburner.com/TheHackersNews"/>
-                <outline text="It's FOSS" type="rss" htmlUrl="https://itsfoss.com/" xmlUrl="https://itsfoss.com/feed/"/>
-                <outline text="Viva o Linux - Forum" type="rss" htmlUrl="http://www.vivaolinux.com.br/" xmlUrl="https://feeds.feedburner.com/forum-vivaolinux?format=xml"/>
-                <outline text="Newest | OpenHardware.io" type="rss" htmlUrl="https://www.openhardware.io/" xmlUrl="https://www.openhardware.io/list?rss=1&amp;view=newest"/>
-            </outline>
-    </body>
+  <head>
+    <title>RSS Guard</title>
+    <dateCreated>Tue, 19 May 2026 18:52:05 GMT</dateCreated>
+  </head>
+  <body>
+    <outline description="" text="News">
+      <outline description="" text="News - Sports">
+        <outline description="" encoding="UTF-8" text="Battle of the Nations" title="Battle of the Nations" type="rss" version="RSS" xmlUrl="https://botn.info/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="MMA News &amp; results for the Ultimate Fighting Championship (UFC), Strikeforce &amp; more Mixed Martial Arts fights" encoding="UTF-8" text="MMA Fighting: UFC, Mixed Martial Arts (MMA) News, Results" title="MMA Fighting: UFC, Mixed Martial Arts (MMA) News, Results" type="rss" version="ATOM" xmlUrl="https://www.mmafighting.com/rss/index.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="A notícia está aqui!" encoding="UTF-8" text="Esporte News Mundo" title="Esporte News Mundo" type="rss" version="RSS" xmlUrl="https://esportenewsmundo.com.br/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="O maior portal de notícias, jogos e vídeos do Flamengo" encoding="UTF-8" text="Flamengo | Coluna do Fla – Notícias, jogos e vídeos" title="Flamengo | Coluna do Fla – Notícias, jogos e vídeos" type="rss" version="RSS" xmlUrl="https://colunadofla.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Archery  Bow Hunting Gear, News, Videos and Tips" encoding="UTF-8" text="Inside Archery Archery Newsfeed" title="Inside Archery Archery Newsfeed" type="rss" version="RSS" xmlUrl="https://insidearchery.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="News - Games">
+        <outline description="All Steam news, all the time!" encoding="UTF-8" text="Steam RSS News Feed" title="Steam RSS News Feed" type="rss" version="RSS1" xmlUrl="https://store.steampowered.com/feeds/news.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Creative, Personal, Passionate Digital Experiences" encoding="UTF-8" text="Indie Games Plus" title="Indie Games Plus" type="rss" version="RSS" xmlUrl="https://indiegamesplus.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="News - Culture and Politics">
+        <outline description="News and commentary on interracial crime, race differences, white advocacy, Third World immigration, anti-white racism, and white identity." encoding="UTF-8" text="American Renaissance" title="American Renaissance" type="rss" version="RSS" xmlUrl="https://www.amren.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="The Web's Most Forbidden News" encoding="UTF-8" text="Dissent Watch" title="Dissent Watch" type="rss" version="RSS" xmlUrl="https://dissentwatch.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Red Ice delivers news, TV and online radio, including Red Ice Radio and Radio 3Fourteen. Founded by Henrik Palmgren in 2003, Red Ice reaches hundreds of thousands of people every month seeking an alternative to the mainstream, covering politics and social issues from a pro-European perspective. Truly independent and supported by members, Red Ice remains commercial and ad free. Red Ice is based in Sweden and North America." encoding="UTF-8" text="Red Ice News" title="Red Ice News" type="rss" version="RSS" xmlUrl="https://redice.tv/rss/news" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="America's Last Real Newspaper" encoding="UTF-8" text="American Free Press" title="American Free Press" type="rss" version="RSS" xmlUrl="https://americanfreepress.net/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Nationalism, Populism, Reaction" encoding="UTF-8" text="Occidental Dissent" title="Occidental Dissent" type="rss" version="RSS" xmlUrl="https://occidentaldissent.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="News - Geopolitics and War">
+        <outline description="Military Times News Feed" encoding="UTF-8" text="Military Times" title="Military Times" type="rss" version="RSS" xmlUrl="https://www.militarytimes.com/arc/outboundfeeds/rss/category/flashpoints/?outputType=xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="&#xa;" encoding="UTF-8" text="Militant Wire" title="Militant Wire" type="rss" version="RSS" xmlUrl="https://www.militantwire.com/feed" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Analysis &amp; Intelligence" encoding="UTF-8" text="South Front" title="South Front" type="rss" version="ATOM" xmlUrl="https://southfront.press/feed/atom" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="News - South America">
+        <outline description="LIBERDADE! JUSTIÇA! REVOLUÇÃO!" encoding="UTF-8" text="Nova Resistência" title="Nova Resistência" type="rss" version="RSS" xmlUrl="https://novaresistencia.org/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="News - Finance">
+        <outline description="Monero is a digital currency that is secure, private, and untraceable." encoding="UTF-8" text="Monero" title="Monero" type="rss" version="ATOM" xmlUrl="https://www.getmonero.org/feed.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="ZeroHedge News" title="ZeroHedge News" type="rss" version="RSS" xmlUrl="https://feeds.feedburner.com/zerohedge/feed" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="News – Blokt – Privacy, Tech, Bitcoin, Blockchain &amp; Cryptocurrency" title="News – Blokt – Privacy, Tech, Bitcoin, Blockchain &amp; Cryptocurrency" type="rss" version="RSS" xmlUrl="https://blokt.com/news/feed" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="News - Realeases">
+        <outline description="" encoding="UTF-8" text="Release notes from batocera.linux" title="Release notes from batocera.linux" type="rss" version="ATOM" xmlUrl="https://github.com/batocera-linux/batocera.linux/releases.atom" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="a flexible emulator front-end" encoding="UTF-8" text="EmulationStation" title="EmulationStation" type="rss" version="RSS" xmlUrl="https://emulationstation.org/news/?feed=rss2" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="GIMP" title="GIMP" type="rss" version="RSS" xmlUrl="https://www.gimp.org/feeds/rss.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Release notes from monero-gui" title="Release notes from monero-gui" type="rss" version="ATOM" xmlUrl="https://github.com/monero-project/monero-gui/releases.atom" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="The latest and greatest news from the Arch Linux distribution." encoding="UTF-8" text="Arch Linux: Recent news updates" title="Arch Linux: Recent news updates" type="rss" version="RSS" xmlUrl="https://archlinux.org/feeds/news/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Kodi is a free media player that is designed to look great on your big screen TV but is just as at home on a small screen." encoding="UTF-8" text="Kodi News" title="Kodi News" type="rss" version="RSS" xmlUrl="http://feeds.kodi.tv/xbmc" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Tails" encoding="UTF-8" text="Tails - News" title="Tails - News" type="rss" version="RSS" xmlUrl="https://tails.net/news/index.en.rss" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Topics in the 'Announcements' category Important information regarding distribution releases and bundled package updates." encoding="UTF-8" text="Manjaro Linux Forum" title="Manjaro Linux Forum" type="rss" version="RSS" xmlUrl="https://forum.manjaro.org/c/announcements/11.rss" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Games entries that have been added or updated in the last 30 days" encoding="UTF-8" text="Open Source Game Clones: New/Updated Games" title="Open Source Game Clones: New/Updated Games" type="rss" version="ATOM" xmlUrl="https://osgameclones.com/feed.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="EndevourOS Releases" title="EndevourOS Releases" type="rss" version="ATOM" xmlUrl="https://github.com/endeavouros-team/ISO/releases.atom" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Free, libre games and development news" encoding="UTF-8" text="Free Gamer - Open Source Games (Free/Libre)" title="Free Gamer - Open Source Games (Free/Libre)" type="rss" version="RSS" xmlUrl="https://freegamer.blogspot.com/feeds/posts/default?alt=rss" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+      <outline description="" text="News - Technology and Opsec">
+        <outline description="" encoding="UTF-8" text="Schneier on Security" title="Schneier on Security" type="rss" version="RSS" xmlUrl="https://www.schneier.com/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="All blogs at the Software Freedom Conservancy." encoding="UTF-8" text="The Software Freedom Conservancy Blog." title="The Software Freedom Conservancy Blog." type="rss" version="RSS" xmlUrl="https://sfconservancy.org/feeds/blog/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Most trusted, widely-read independent cybersecurity news source for everyone; supported by hackers and IT professionals — Send TIPs to admin@thehackernews.com" encoding="UTF-8" text="The Hacker News" title="The Hacker News" type="rss" version="RSS" xmlUrl="https://feeds.feedburner.com/TheHackersNews" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Software Freedom Conservancy News" title="Software Freedom Conservancy News" type="rss" version="RSS" xmlUrl="https://sfconservancy.org/feeds/news/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Making You A Better Linux User" encoding="UTF-8" text="It&amp;#x27;s FOSS" title="It&amp;#x27;s FOSS" type="rss" version="RSS" xmlUrl="https://itsfoss.com/rss/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Viva o Linux - Porque nï¿½s amamos a liberdade! A melhor comunidade para se aprender Linux do Brasil." encoding="ISO-8859-1" text="Viva o Linux - Forum" title="Viva o Linux - Forum" type="rss" version="RSS" xmlUrl="https://feeds.feedburner.com/forum-vivaolinux?format=xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Planet GNU - https://planet.gnu.org/" encoding="UTF-8" text="Planet GNU" title="Planet GNU" type="rss" version="RSS" xmlUrl="https://planet.gnu.org/rss20.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="FSF News" title="FSF News" type="rss" version="RSS1" xmlUrl="https://static.fsf.org/fsforg/rss/news.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Tips, tricks, tutorials…" encoding="UTF-8" text="HTML Online" title="HTML Online" type="rss" version="RSS" xmlUrl="https://html-online.com/articles/feed/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="suckless.org news" title="suckless.org news" type="rss" version="ATOM" xmlUrl="https://suckless.org/atom.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="MediaGoblin" title="MediaGoblin" type="rss" version="ATOM" xmlUrl="https://mediagoblin.org/news/index.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Newest | OpenHardware.io" encoding="UTF-8" text="Newest | OpenHardware.io" title="Newest | OpenHardware.io" type="rss" version="RSS" xmlUrl="https://www.openhardware.io/list?rss=1&amp;view=newest" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Linux Journal - The Original Magazine of the Linux Community" title="Linux Journal - The Original Magazine of the Linux Community" type="rss" version="RSS" xmlUrl="https://www.linuxjournal.com/node/feed" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+    </outline>
+  </body>
 </opml>

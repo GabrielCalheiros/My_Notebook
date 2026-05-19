@@ -1,19 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <opml version="2.0">
-    <head>
-        <title>QuiteRSS</title>
-        <dateModified>qui out 31 11:21:06 2024</dateModified>
-    </head>
-    <body>
-        <outline text="BOOMERANG - News" type="rss" htmlUrl="https://b00merang.weebly.com/news" xmlUrl="https://b00merang.weebly.com/1/feed"/>
-        <outline text="Kodi News" type="rss" htmlUrl="https://kodi.tv" xmlUrl="http://feeds.kodi.tv/xbmc"/>
-        <outline text="Arch Linux: Recent news updates" type="rss" htmlUrl="https://archlinux.org/news/" xmlUrl="https://archlinux.org/feeds/news/"/>
-        <outline text="Announcements - Manjaro Linux Forum" type="rss" htmlUrl="https://forum.manjaro.org/c/announcements/11" xmlUrl="https://forum.manjaro.org/c/announcements/11.rss"/>
-        <outline text="Tails - Notícias" type="rss" htmlUrl="https://tails.net/news/index.en.html" xmlUrl="https://tails.boum.org/news/index.pt.rss"/>
-        <outline text="Release notes from monero-gui" type="rss" htmlUrl="https://github.com/monero-project/monero-gui/releases" xmlUrl="https://github.com/monero-project/monero-gui/releases.atom"/>
-        <outline text="Release notes from batocera.linux" type="rss" htmlUrl="https://github.com/batocera-linux/batocera.linux/releases" xmlUrl="https://github.com/batocera-linux/batocera.linux/releases.atom"/>
-        <outline text="EmulationStation" type="rss" htmlUrl="https://emulationstation.org/news" xmlUrl="https://emulationstation.org/news/?feed=rss2"/>
-        <outline text="GIMP" type="rss" htmlUrl="https://www.gimp.org/" xmlUrl="https://www.gimp.org/feeds/rss.xml"/>
-        <outline text="PortableApps.com" type="rss" htmlUrl="https://portableapps.com" xmlUrl="http://portableapps.com/feeds/general"/>
-    </body>
+  <head>
+    <title>RSS Guard</title>
+    <dateCreated>Tue, 19 May 2026 18:55:11 GMT</dateCreated>
+  </head>
+  <body>
+    <outline description="" text="News">
+      <outline description="" text="News - Realeases">
+        <outline description="" encoding="UTF-8" text="Release notes from batocera.linux" title="Release notes from batocera.linux" type="rss" version="ATOM" xmlUrl="https://github.com/batocera-linux/batocera.linux/releases.atom" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="a flexible emulator front-end" encoding="UTF-8" text="EmulationStation" title="EmulationStation" type="rss" version="RSS" xmlUrl="https://emulationstation.org/news/?feed=rss2" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="GIMP" title="GIMP" type="rss" version="RSS" xmlUrl="https://www.gimp.org/feeds/rss.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Release notes from monero-gui" title="Release notes from monero-gui" type="rss" version="ATOM" xmlUrl="https://github.com/monero-project/monero-gui/releases.atom" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="The latest and greatest news from the Arch Linux distribution." encoding="UTF-8" text="Arch Linux: Recent news updates" title="Arch Linux: Recent news updates" type="rss" version="RSS" xmlUrl="https://archlinux.org/feeds/news/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Kodi is a free media player that is designed to look great on your big screen TV but is just as at home on a small screen." encoding="UTF-8" text="Kodi News" title="Kodi News" type="rss" version="RSS" xmlUrl="http://feeds.kodi.tv/xbmc" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Tails" encoding="UTF-8" text="Tails - News" title="Tails - News" type="rss" version="RSS" xmlUrl="https://tails.net/news/index.en.rss" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Topics in the 'Announcements' category Important information regarding distribution releases and bundled package updates." encoding="UTF-8" text="Manjaro Linux Forum" title="Manjaro Linux Forum" type="rss" version="RSS" xmlUrl="https://forum.manjaro.org/c/announcements/11.rss" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Games entries that have been added or updated in the last 30 days" encoding="UTF-8" text="Open Source Game Clones: New/Updated Games" title="Open Source Game Clones: New/Updated Games" type="rss" version="ATOM" xmlUrl="https://osgameclones.com/feed.xml" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="EndevourOS Releases" title="EndevourOS Releases" type="rss" version="ATOM" xmlUrl="https://github.com/endeavouros-team/ISO/releases.atom" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="Free, libre games and development news" encoding="UTF-8" text="Free Gamer - Open Source Games (Free/Libre)" title="Free Gamer - Open Source Games (Free/Libre)" type="rss" version="RSS" xmlUrl="https://freegamer.blogspot.com/feeds/posts/default?alt=rss" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+      </outline>
+    </outline>
+  </body>
 </opml>

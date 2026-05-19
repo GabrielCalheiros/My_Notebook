@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Guard</title>
-    <dateCreated>Fri, 15 May 2026 20:07:01 GMT</dateCreated>
+    <dateCreated>Tue, 19 May 2026 18:52:22 GMT</dateCreated>
   </head>
   <body>
     <outline description="" text="News">
@@ -220,8 +220,8 @@
         <outline description="" encoding="UTF-8" text="TheAlmightyLoli" title="TheAlmightyLoli" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCznmmSVMbr7E3isp3xYRqug" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
         <outline description="" encoding="UTF-8" text="Art Chad" title="Art Chad" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC2Y0KKomVw83JDgjVqVCGzg" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
         <outline description="" encoding="UTF-8" text="KULTURE DADS Podcast" title="KULTURE DADS Podcast" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeS8ctSolI7QX5dtaYceCbQ" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
-        <outline description="" encoding="UTF-8" text="American Krogan" title="American Krogan" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9I9Iu2Noyvz6CLJTTp58Ng" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
         <outline description="" encoding="UTF-8" text="Joomi Kim" title="Joomi Kim" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClL-ARKseEDa5RDUUNXjZ9w" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="American Krogan" title="American Krogan" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9I9Iu2Noyvz6CLJTTp58Ng" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
       </outline>
       <outline description="" text="Videos - Health">
         <outline description="" encoding="UTF-8" text="The Bioneer" title="The Bioneer" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIh_TPYPqjJuS_-nOfAIlfg" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
@@ -430,6 +430,7 @@
         <outline description="" encoding="UTF-8" text="SchizoDumpz" title="SchizoDumpz" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQGQRr7LQq9xh0QFGyf-4SQ" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
         <outline description="" encoding="UTF-8" text="Semmiot" title="Semmiot" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCThjQuvn5q9yC2LmHnbuhQQ" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
         <outline description="" encoding="UTF-8" text="Static in the Attic" title="Static in the Attic" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCjnUvgimc9OjX843EzD1J_Q" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Coop" title="Coop" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCpFxqvOu2vaS6L0uWSJPJhg" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
       </outline>
       <outline description="" text="Videos - Politics">
         <outline description="" encoding="UTF-8" text="Sean Last" title="Sean Last" type="rss" version="RSS" xmlUrl="https://api.bitchute.com/feeds/rss/channel/sean_last/" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
