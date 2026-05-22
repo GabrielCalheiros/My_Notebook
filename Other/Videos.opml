@@ -2,7 +2,7 @@
 <opml version="2.0">
   <head>
     <title>RSS Guard</title>
-    <dateCreated>Tue, 19 May 2026 18:51:13 GMT</dateCreated>
+    <dateCreated>Thu, 21 May 2026 20:34:45 GMT</dateCreated>
   </head>
   <body>
     <outline description="" text="Videos">
@@ -45,6 +45,8 @@
         <outline description="" encoding="UTF-8" text="KULTURE DADS Podcast" title="KULTURE DADS Podcast" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCeS8ctSolI7QX5dtaYceCbQ" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
         <outline description="" encoding="UTF-8" text="Joomi Kim" title="Joomi Kim" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClL-ARKseEDa5RDUUNXjZ9w" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
         <outline description="" encoding="UTF-8" text="American Krogan" title="American Krogan" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9I9Iu2Noyvz6CLJTTp58Ng" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Type2Productions" title="Type2Productions" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqHq26WAjSBejtQvg7DreWw" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
+        <outline description="" encoding="UTF-8" text="Ranting For Vengeance" title="Ranting For Vengeance" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC_1hHz7C6PrnCHkymuDjkUA" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
       </outline>
       <outline description="" text="Videos - Health">
         <outline description="" encoding="UTF-8" text="The Bioneer" title="The Bioneer" type="rss" version="ATOM" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIh_TPYPqjJuS_-nOfAIlfg" rssguard:postProcess="" rssguard:xmlUrlType="0" xmlns:rssguard="https://github.com/martinrotter/rssguard"/>
